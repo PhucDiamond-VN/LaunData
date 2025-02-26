@@ -3,7 +3,7 @@
     "ip": "0g1gJECw0P55FD6dL4nCVg==",
     "port": "f+hppSNBG2nOOl/ze3d4wA==",
     "pass": "",
-    "HostStorage": "HostStorage",
+    "HostStorage": "104.234.180.137",
     "maxParallel": 10,
     "CheckSumExtensions": [
         ".cs",
