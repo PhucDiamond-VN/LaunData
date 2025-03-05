@@ -11,6 +11,7 @@
         ".lua",
         ".luac",
         ".exe",
+        ".txd",
         ".dll"
     ],
     "CheckSumFiles": [],
