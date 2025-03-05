@@ -1,8 +1,8 @@
 {
-    "Version": 2,
+    "Version": 3,
     "ip": "rBj5n2os7VYKM+pXFfsABg==",
     "port": "s/UUefJWk5nf30YoWTtvMA==",
-    "pass": "",
+    "pass": "vkOOQ1RbywV5W+itr1WjhRvzvlf4Vf1PXMJ6EK41gOk=",
     "HostStorage": "104.234.180.137",
     "maxParallel": 10,
     "CheckSumExtensions": [
@@ -966,8 +966,8 @@
             "hash": ""
         },
         "/CustomSAA2/loadscs.txd": {
-            "time": 1738493379.063167,
-            "size": 11058828,
+            "time": 1741177927.0744576,
+            "size": 4083820,
             "hash": ""
         },
         "/CustomSAA2/main.scm": {
