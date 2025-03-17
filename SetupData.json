@@ -4569,7 +4569,7 @@
         "/modloader/skin/hmori.txd": {
             "time": 1742188042.4642775,
             "size": 6240208,
-            "hash": "0F7E8E0E8A2B4F747E029DA5A550C599112D74E3841F7D33A3EA8B4E18370CE0F13A807CB081DBB2E184E2E3C9E36564FA95B6E4844A216CFA3116514A8C133E"
+            "hash": "396CD6141D58D65B586148A60F50EB19579F71247ECDE56A391C3CC5B46A4B8DF3F4DFD1921ECC7CB2CACDFA1293E364F7604367ED4F931605B3AE9E5F336B80"
         },
         "/modloader/skin/hmost.dff": {
             "time": 1741110682.3644028,
@@ -4750,11 +4750,6 @@
             "time": 1739892206.0,
             "size": 849920,
             "hash": "728C8A7EE47F563359AC8D1052C33CAE691A9258399BB8E4EC21CBA54BD8C5C3A6C3D065E0404047EDE6782C86CD74B5C22725BA9F28E0DD740AC918C785A569"
-        },
-        "/modloader/skin/swmori.dff": {
-            "time": 1742188038.6100173,
-            "size": 114131,
-            "hash": ""
         },
         "/modloader/skin/swmori.txd": {
             "time": 1742188036.6475296,
