@@ -12,6 +12,7 @@
         ".luac",
         ".exe",
         ".txd",
+        ".dff",
         ".dll"
     ],
     "CheckSumFiles": [
