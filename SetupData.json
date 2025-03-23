@@ -12,6 +12,7 @@
         ".luac",
         ".exe",
         ".txd",
+        ".dff",
         ".dll"
     ],
     "CheckSumFiles": [
@@ -2924,17 +2925,17 @@
         "/models/generic/air_vlo.DFF": {
             "time": 1054623320.0,
             "size": 7100,
-            "hash": ""
+            "hash": "E90572ADF4A847E00FF8D37E693163B416D14E2D2EF1CE8B87D22118E6FD02EAD3DEC612032451E2F457F0DA5EC5B3BBCC97919F655F45BBFE67C394F13E095D"
         },
         "/models/generic/arrow.DFF": {
             "time": 1063350430.0,
             "size": 4849,
-            "hash": ""
+            "hash": "4DAA77CD789E8628F18808D83AA30941FC448C58778BF2BA3EF16A17E3FD921E123A7B68666930401BBE8B9369CC5C41B5ABEC723E9A9E3A8D4AA62718671E08"
         },
         "/models/generic/hoop.dff": {
             "time": 1083221882.0,
             "size": 3701,
-            "hash": ""
+            "hash": "DB183EDC4DD9BD416DB639B48617ED8671ED5423060BA6277456447AED0E21BFBC4446377BB4B1C1F11060389AB7736EAAAD48703CC55AD11CECEDBDAC56BBE8"
         },
         "/models/generic/vehicle.txd": {
             "time": 1097203612.0,
@@ -2954,7 +2955,7 @@
         "/models/generic/wheels.DFF": {
             "time": 1063267682.0,
             "size": 129843,
-            "hash": ""
+            "hash": "5B1BDB8B28FCCAB2A29DB8B715EEB08884E42B5605DD8E1B4063E58919CCEFDD2FC31B7618312FA9E8239956AA46B093C669A20FC1A19647FE99D8940A1C9791"
         },
         "/models/generic/wheels.txd": {
             "time": 1086317796.0,
@@ -2964,92 +2965,92 @@
         "/models/generic/zonecylb.DFF": {
             "time": 1054623320.0,
             "size": 2260,
-            "hash": ""
+            "hash": "3B62A417696733E3BE79878ECB1576768227604FC3380B70E2A9D7943658F6FEB3E40EF6CDE5C6FC9A8A7B91AC76FE948B9CC1335D559E447801F96BCF2DEC52"
         },
         "/models/grass/grass0_1.dff": {
             "time": 1113463224.0,
             "size": 1596,
-            "hash": ""
+            "hash": "72B3698E17CBBE12E5395B84DE1F1013FED867D7AE7CE462DFE40E440AE7C672B0950B4BD9936622C4F5C6050C1973C9607322C4952126B74B6AAF5BD2A7A34F"
         },
         "/models/grass/grass0_2.dff": {
             "time": 1113463224.0,
             "size": 1596,
-            "hash": ""
+            "hash": "15203724B632D72F1DAB6938B1C02633688FCEA5BCC552DDEF09CFBDF115CEC2BBA18823C12ECC18495657E0ADC0D006CB24EDCB7451F30A60E28BD7163552F4"
         },
         "/models/grass/grass0_3.dff": {
             "time": 1113463224.0,
             "size": 1600,
-            "hash": ""
+            "hash": "98F3D9A4636F6D3DA84B28EE7D49FB110E5C8C538E832C23A3DBDFEFA0CCDEC88FEFDB4FA9F2BC48F3915023764859B54B6729901C6ED8F9E86260CCEB4E28E5"
         },
         "/models/grass/grass0_4.dff": {
             "time": 1113463224.0,
             "size": 1601,
-            "hash": ""
+            "hash": "F25F94173E686FCD0FF00619D8E662898106940E5FE7523D6D8E1897DDB0CD315344ACDDFB65B067AB01383EC2EB238EF7CD1906735B3CA1DE3BBA80950169B0"
         },
         "/models/grass/grass1_1.dff": {
             "time": 1113463224.0,
             "size": 1981,
-            "hash": ""
+            "hash": "413D5AA56330ADFF1576350C9B2FFFD6FE35823B31F71E0B65F1ACE36430EC66D3B60424834E95D9B7B40078E53216E9E2AF693536004351FE6AE6CE3ABE4D53"
         },
         "/models/grass/grass1_2.dff": {
             "time": 1113463224.0,
             "size": 1981,
-            "hash": ""
+            "hash": "413D5AA56330ADFF1576350C9B2FFFD6FE35823B31F71E0B65F1ACE36430EC66D3B60424834E95D9B7B40078E53216E9E2AF693536004351FE6AE6CE3ABE4D53"
         },
         "/models/grass/grass1_3.dff": {
             "time": 1113463224.0,
             "size": 1981,
-            "hash": ""
+            "hash": "413D5AA56330ADFF1576350C9B2FFFD6FE35823B31F71E0B65F1ACE36430EC66D3B60424834E95D9B7B40078E53216E9E2AF693536004351FE6AE6CE3ABE4D53"
         },
         "/models/grass/grass1_4.dff": {
             "time": 1113463224.0,
             "size": 1981,
-            "hash": ""
+            "hash": "413D5AA56330ADFF1576350C9B2FFFD6FE35823B31F71E0B65F1ACE36430EC66D3B60424834E95D9B7B40078E53216E9E2AF693536004351FE6AE6CE3ABE4D53"
         },
         "/models/grass/grass2_1.dff": {
             "time": 1113463224.0,
             "size": 1981,
-            "hash": ""
+            "hash": "413D5AA56330ADFF1576350C9B2FFFD6FE35823B31F71E0B65F1ACE36430EC66D3B60424834E95D9B7B40078E53216E9E2AF693536004351FE6AE6CE3ABE4D53"
         },
         "/models/grass/grass2_2.dff": {
             "time": 1113463224.0,
             "size": 1981,
-            "hash": ""
+            "hash": "413D5AA56330ADFF1576350C9B2FFFD6FE35823B31F71E0B65F1ACE36430EC66D3B60424834E95D9B7B40078E53216E9E2AF693536004351FE6AE6CE3ABE4D53"
         },
         "/models/grass/grass2_3.dff": {
             "time": 1113463224.0,
             "size": 1981,
-            "hash": ""
+            "hash": "413D5AA56330ADFF1576350C9B2FFFD6FE35823B31F71E0B65F1ACE36430EC66D3B60424834E95D9B7B40078E53216E9E2AF693536004351FE6AE6CE3ABE4D53"
         },
         "/models/grass/grass2_4.dff": {
             "time": 1113463224.0,
             "size": 1981,
-            "hash": ""
+            "hash": "413D5AA56330ADFF1576350C9B2FFFD6FE35823B31F71E0B65F1ACE36430EC66D3B60424834E95D9B7B40078E53216E9E2AF693536004351FE6AE6CE3ABE4D53"
         },
         "/models/grass/grass3_1.dff": {
             "time": 1113463224.0,
             "size": 1981,
-            "hash": ""
+            "hash": "413D5AA56330ADFF1576350C9B2FFFD6FE35823B31F71E0B65F1ACE36430EC66D3B60424834E95D9B7B40078E53216E9E2AF693536004351FE6AE6CE3ABE4D53"
         },
         "/models/grass/grass3_2.dff": {
             "time": 1113463224.0,
             "size": 1981,
-            "hash": ""
+            "hash": "413D5AA56330ADFF1576350C9B2FFFD6FE35823B31F71E0B65F1ACE36430EC66D3B60424834E95D9B7B40078E53216E9E2AF693536004351FE6AE6CE3ABE4D53"
         },
         "/models/grass/grass3_3.dff": {
             "time": 1113463224.0,
             "size": 1981,
-            "hash": ""
+            "hash": "413D5AA56330ADFF1576350C9B2FFFD6FE35823B31F71E0B65F1ACE36430EC66D3B60424834E95D9B7B40078E53216E9E2AF693536004351FE6AE6CE3ABE4D53"
         },
         "/models/grass/grass3_4.dff": {
             "time": 1113463224.0,
             "size": 1981,
-            "hash": ""
+            "hash": "413D5AA56330ADFF1576350C9B2FFFD6FE35823B31F71E0B65F1ACE36430EC66D3B60424834E95D9B7B40078E53216E9E2AF693536004351FE6AE6CE3ABE4D53"
         },
         "/models/grass/plant1.dff": {
             "time": 1113538938.0,
             "size": 2072,
-            "hash": ""
+            "hash": "EC041B33516404C6F2585A3137E26B2B204C7FF34F7C2C497986122E9A977BB42EE7B42F91839E8A68F12AE090585B54E6F479CA3FCE9B0D965E58AC6C84EB00"
         },
         "/models/grass/plant1.txd": {
             "time": 1113538340.0,
@@ -4454,7 +4455,7 @@
         "/modloader/skin/bfyri.dff": {
             "time": 1741066990.0,
             "size": 1367551,
-            "hash": ""
+            "hash": "00DE17BF1F46902CD88036CF83D4BFF52A289D3E84E13937048FB5D0CC131D580E85E282597A15BAD654BE43A37E2D22D52FB09279CF9E6DD384D1623BC05637"
         },
         "/modloader/skin/bfyri.txd": {
             "time": 1741063188.0,
@@ -4464,7 +4465,7 @@
         "/modloader/skin/bmobar.dff": {
             "time": 1739892202.0,
             "size": 3579904,
-            "hash": ""
+            "hash": "68FF11F6C11BCEE2B52BBF33A2AE519626165B35E14CF65A7093E741051DEDB5EDEF15C3261E34B79A974AEF99B36889714AEDF24DD9F72ED6921803A0911E5F"
         },
         "/modloader/skin/bmobar.txd": {
             "time": 1739892208.0,
@@ -4474,7 +4475,7 @@
         "/modloader/skin/bmochil.dff": {
             "time": 1739892210.0,
             "size": 2189312,
-            "hash": ""
+            "hash": "3EA3131FBACEE08C1971EE823B1B85E42DEC614C9953E8853D68F591865A94E54767A8EF08B48EABD3F7DE72236C34A037CF57E635E78E8CD81E4ECD021EAB5F"
         },
         "/modloader/skin/bmochil.txd": {
             "time": 1739892206.0,
@@ -4484,7 +4485,7 @@
         "/modloader/skin/bmybar.dff": {
             "time": 1739892200.0,
             "size": 3018752,
-            "hash": ""
+            "hash": "ECD317F8AC7FED3610D34FCD1598FF7A51BE2067EB666368F37AFE3DE12EAAD781E0DF158594F4CABFD472AE7866A4764E30DC618D2F2A8ADF48F742A1467940"
         },
         "/modloader/skin/bmybar.txd": {
             "time": 1739892202.0,
@@ -4494,7 +4495,7 @@
         "/modloader/skin/bmyboun.dff": {
             "time": 1739892200.0,
             "size": 2633728,
-            "hash": ""
+            "hash": "B1A4A5E8C7994149D320E3051D96EFFB3DCDEC04FE56E8165C20C7B6C1D2DFF45C05DB58E77DE38C2302E59CEFA815ED88752A0E95291166A4047E705A7EE4BA"
         },
         "/modloader/skin/bmyboun.txd": {
             "time": 1739892208.0,
@@ -4504,7 +4505,7 @@
         "/modloader/skin/bmytatt.dff": {
             "time": 1739892204.0,
             "size": 2801664,
-            "hash": ""
+            "hash": "5AFDF3BCCCE68F2F4BFFF7B503FBB9448B3CBA840D30C0734A0D9CBD93AD939DCBAEF8A57983720F13B6A75BA100C56F69AC68956FAD6E4FEE8971BB37F97C0E"
         },
         "/modloader/skin/bmytatt.txd": {
             "time": 1739892210.0,
@@ -4514,7 +4515,7 @@
         "/modloader/skin/cwmofr.dff": {
             "time": 1739892210.0,
             "size": 3590144,
-            "hash": ""
+            "hash": "58FFD1A21DBFA55AE0F75E8454F64B8A62936377C88E727464172048CB08CEF2F2390C2F10CC11550F074C6FFEF2B59B8138815DA7C3F6288BE70FDBA8A0844E"
         },
         "/modloader/skin/cwmofr.txd": {
             "time": 1739892200.0,
@@ -4524,7 +4525,7 @@
         "/modloader/skin/cwmohb1.dff": {
             "time": 1739892210.0,
             "size": 4468736,
-            "hash": ""
+            "hash": "DFB894DCEC534BE6C2155F93C1A7455E83FB7E1EA8CFC2C10BDB695B27120117C51A2BFDD1ED97A3368ED0D72EAE42C49329A689B9CC9EF7CC3B811EC67E5879"
         },
         "/modloader/skin/cwmohb1.txd": {
             "time": 1739892202.0,
@@ -4534,7 +4535,7 @@
         "/modloader/skin/cwmyfr.dff": {
             "time": 1739892202.0,
             "size": 2209792,
-            "hash": ""
+            "hash": "F1A15567AB09756095EFBE5C4D8865FA6E3E3F0AA35F9B0F246313AE506911B5534BD1BCD07E6D5885D7FADB4034C55C1E8D0A6FBA8305F941F3FEDDE94A73A1"
         },
         "/modloader/skin/cwmyfr.txd": {
             "time": 1739892200.0,
@@ -4544,7 +4545,7 @@
         "/modloader/skin/cwmyhb2.dff": {
             "time": 1739892208.0,
             "size": 2197504,
-            "hash": ""
+            "hash": "CEB77B2EC7E0789F8E2013796D2BB87D7CD336D8DD2B4107AF94D4D28A1C6C8FD6092DF44AC77C7D4D2FF9B97F93F74037ED217E9E427E3D1B95485211453522"
         },
         "/modloader/skin/cwmyhb2.txd": {
             "time": 1739892200.0,
@@ -4554,7 +4555,7 @@
         "/modloader/skin/dwmylc2.dff": {
             "time": 1739892208.0,
             "size": 2654208,
-            "hash": ""
+            "hash": "2CB08446A3CD9537B427B8039AB3EC2A4DC5040CB169AD3AC3507D9FEE3596D5292184BC53A8671A75BF0DE8372BD5DBD4F9FBFCDD0C94427AFCD135DFF86443"
         },
         "/modloader/skin/dwmylc2.txd": {
             "time": 1739892206.0,
@@ -4564,7 +4565,7 @@
         "/modloader/skin/hmori.dff": {
             "time": 1742188040.635902,
             "size": 3344021,
-            "hash": ""
+            "hash": "008AC0218A179BBECCE9FC1B69D689746A0522E60C99918F1A1C43A5834428121DEB5EC149A00C90B6B40E7AD8D09DC1F13B95FB07DE8A6077FC10E9EDFADD02"
         },
         "/modloader/skin/hmori.txd": {
             "time": 1742188042.4642775,
@@ -4574,7 +4575,7 @@
         "/modloader/skin/hmost.dff": {
             "time": 1741110682.3644028,
             "size": 2451294,
-            "hash": ""
+            "hash": "59A1262F7FC9A9CF2FE6F3B59DC5BB6BA6A1A8B8E44EF0517CB8375897836FABB82EA1705AB5583E1091DAD6539FCA6C2D0014663F6C69B9E503E20E051BAD9E"
         },
         "/modloader/skin/hmost.txd": {
             "time": 1741110682.3490024,
@@ -4584,7 +4585,7 @@
         "/modloader/skin/omykara.dff": {
             "time": 1739892208.0,
             "size": 2621440,
-            "hash": ""
+            "hash": "E73542CBC4512CB8F8B665617B1552F8A8D3645F83F4F0563FCC1527C9535B4BECC305DA27DA9D557CAA37204BAD58F0B09D62931516FB0A3CE70322AB539412"
         },
         "/modloader/skin/omykara.txd": {
             "time": 1739892204.0,
@@ -4594,7 +4595,7 @@
         "/modloader/skin/ryder.dff": {
             "time": 1739892200.0,
             "size": 2451456,
-            "hash": ""
+            "hash": "4AC10E0EDF412B6C596F90CAD741099851DD51A7122F15A341D48A20C5FBD72644661D9C1BDE7A2014DEA6E645EF4D15C3BFB9A4485A8D37E40D74859A7F4363"
         },
         "/modloader/skin/ryder.txd": {
             "time": 1739892200.0,
@@ -4604,7 +4605,7 @@
         "/modloader/skin/sbmocd.dff": {
             "time": 1739892204.0,
             "size": 4362240,
-            "hash": ""
+            "hash": "26DE447CE4662328E5A66F4E1FA948ACB2C305635A217BD5067E5F55BA4D3DA9513A592F1A3FFA502BF4A9FEDBC5DECE1C097A0108908E02A5E76C752E39F443"
         },
         "/modloader/skin/sbmocd.txd": {
             "time": 1739892204.0,
@@ -4614,7 +4615,7 @@
         "/modloader/skin/sbmori.dff": {
             "time": 1739892202.0,
             "size": 2766848,
-            "hash": ""
+            "hash": "C04C4E14D6A3AF73B1320DA6028CC3374506E4FE668CDA24DBB497428CFBD45D853A568783C6080B74408F2F97D908858214C219BD7371FB940A8C314E3ED62B"
         },
         "/modloader/skin/sbmori.txd": {
             "time": 1739892204.0,
@@ -4624,7 +4625,7 @@
         "/modloader/skin/sbmost.dff": {
             "time": 1739892200.0,
             "size": 2975744,
-            "hash": ""
+            "hash": "435D3383EB81C49240648E345FC1AB02AE18DC63339BA0C2901E66C40AB8EC017CFDF3B16B4285F7367AABA508AA47E96387497F936484EE4B2744D34874488C"
         },
         "/modloader/skin/sbmost.txd": {
             "time": 1739892204.0,
@@ -4634,7 +4635,7 @@
         "/modloader/skin/sbmyri.dff": {
             "time": 1739892200.0,
             "size": 3287040,
-            "hash": ""
+            "hash": "E314F609C6D989CB0E9B70DE8637109BBD45D7580FEF8023D2B63756E31EB60D9BEAB66166B267C914D51B9136F9CB62B12CB683ADD187EF9A05F5B3306951B1"
         },
         "/modloader/skin/sbmyri.txd": {
             "time": 1739892208.0,
@@ -4644,7 +4645,7 @@
         "/modloader/skin/sfr1.dff": {
             "time": 1739892200.0,
             "size": 3348480,
-            "hash": ""
+            "hash": "7504C5B665CDBC71E173EB248AC139CCBC3C6ACD00A73D256EEA2E7C2A49F804DCDE210F84D6566C592C34C2ACB26C6CFE26A34DA23B2410ABF4F5F54A3BBA9E"
         },
         "/modloader/skin/sfr1.txd": {
             "time": 1739892208.0,
@@ -4654,7 +4655,7 @@
         "/modloader/skin/sfr2.dff": {
             "time": 1739892202.0,
             "size": 3219456,
-            "hash": ""
+            "hash": "F617D94ECA6BF09DF4811518F183822C68CC3D6D3CB5995EF23AFB7CF252844C7CE1FE65D60A40B4174853B59B6F45C8E5EC493EEABA09C00C41006A63835865"
         },
         "/modloader/skin/sfr2.txd": {
             "time": 1739892200.0,
@@ -4664,7 +4665,7 @@
         "/modloader/skin/sfr3.dff": {
             "time": 1739892210.0,
             "size": 3747840,
-            "hash": ""
+            "hash": "DE8E3729414FA3AF400964999FC04258DF338F83E8E65226D14C9D6F8AC4B275DE2DC3EC7350FFDFBBC9342844D9C31BE729F8398DF5B1129C145C9C8ECEE29A"
         },
         "/modloader/skin/sfr3.txd": {
             "time": 1739892208.0,
@@ -4674,7 +4675,7 @@
         "/modloader/skin/shmycr.dff": {
             "time": 1739892202.0,
             "size": 2967552,
-            "hash": ""
+            "hash": "4BC6B75EC6620E114A731469DAF73F669CECB17ABB29187A8576095C6CD7B5FAA0B1769050AABFBA44486551AFE42E11049A9ADA4756EA0D5EA17C9E7687A195"
         },
         "/modloader/skin/shmycr.txd": {
             "time": 1739892206.0,
@@ -4684,7 +4685,7 @@
         "/modloader/skin/smyst.dff": {
             "time": 1739892204.0,
             "size": 4059136,
-            "hash": ""
+            "hash": "734F77FE6A53097EE42224BC71DA91E196E8E8CD8C3118FCF8EF594F6D84569120559324E27C8CC4BE7C7218873E4B967B0C54F7B653A59B5CCE408BA7CE4412"
         },
         "/modloader/skin/smyst.txd": {
             "time": 1739892210.0,
@@ -4694,7 +4695,7 @@
         "/modloader/skin/somobu.dff": {
             "time": 1739892200.0,
             "size": 3106816,
-            "hash": ""
+            "hash": "352C3A3B920BADAB7696E081574A121E2A33263BC87300CCE2B8018AA102101E29B03DB1E8EB720E9D6AB12DB485D164BA2A8F7DA44A824DFF1E07C8A35539D9"
         },
         "/modloader/skin/somobu.txd": {
             "time": 1739892208.0,
@@ -4704,7 +4705,7 @@
         "/modloader/skin/somybu.dff": {
             "time": 1739892202.0,
             "size": 3231744,
-            "hash": ""
+            "hash": "7DC4678FC62EF5E039473DB7D91587A61A5D5F1A89E575D2BB3FAE7C2AC2A47CF2ACA002D6D2E545B8A406FD3BDE246721B97E5445F2684D79E4150CA0D1C046"
         },
         "/modloader/skin/somybu.txd": {
             "time": 1739892208.0,
@@ -4714,7 +4715,7 @@
         "/modloader/skin/somyri.dff": {
             "time": 1739892202.0,
             "size": 2207744,
-            "hash": ""
+            "hash": "DA0A6DF7BC162AB7D3B00419847D427B9751A9F97E19E8A901A668EC7BC5FE0FD2F19DF8A9F22B0F439677773C4B05A036EE7B0BD35681358366ECC0D97C8CCE"
         },
         "/modloader/skin/somyri.txd": {
             "time": 1739892204.0,
@@ -4724,7 +4725,7 @@
         "/modloader/skin/somyst.dff": {
             "time": 1739892204.0,
             "size": 1366016,
-            "hash": ""
+            "hash": "22F95E0576A0A056871523E1C7469867D165E657DACA464650AFBE7CDF758CFA02EE782B8753E8F68FB1A3D506E77E8B06686E858C20EF2FB1CB7A6A38E82E63"
         },
         "/modloader/skin/somyst.txd": {
             "time": 1739892206.0,
@@ -4734,7 +4735,7 @@
         "/modloader/skin/suzie.dff": {
             "time": 1739892202.0,
             "size": 3893248,
-            "hash": ""
+            "hash": "77DE41A262C74CA610BD3AD241145093A02278E037EA575C3C3E31E5A2B84E7C27997CB8C3E0FF62DACF5C83783547CA07C18AEBA613DEEC8F3A3323EF4C5184"
         },
         "/modloader/skin/suzie.txd": {
             "time": 1739892204.0,
@@ -4744,7 +4745,7 @@
         "/modloader/skin/sweet.dff": {
             "time": 1739892200.0,
             "size": 2568192,
-            "hash": ""
+            "hash": "617010BE9AC2F54F01325AD9FC8C74C83AD2F1B0BE3BF1CDDBB33E3466A65BB765450E22810D4946F44863A04E4BC849E1267B9679D72839A28AFB51B467A2C7"
         },
         "/modloader/skin/sweet.txd": {
             "time": 1739892206.0,
@@ -4754,7 +4755,7 @@
         "/modloader/skin/swmori.dff": {
             "time": 1742188038.6100173,
             "size": 114131,
-            "hash": ""
+            "hash": "D984C4D1D8AE3E6BD4171DC3FDF1A2AE795F62CDF1C3E9A4167F1F7A091B9EF3420747BCE20F4964056BCBFE2BA9C2642C817C92D967BE6F1271C82E13BF46A5"
         },
         "/modloader/skin/swmori.txd": {
             "time": 1742188036.6475296,
@@ -4764,7 +4765,7 @@
         "/modloader/skin/swmotr5.dff": {
             "time": 1739892208.0,
             "size": 3563520,
-            "hash": ""
+            "hash": "0D8FE10DDCE9DC24DBAE3DA80B2B7322C2C37DE507F15ED96C6834FCA02DDA6CDD0980D98266FE95A1C6834347F4861875254EEC80CD740B3FA5D5E3C5D7FAD8"
         },
         "/modloader/skin/swmotr5.txd": {
             "time": 1739892200.0,
@@ -4774,7 +4775,7 @@
         "/modloader/skin/swmyri.dff": {
             "time": 1739892202.0,
             "size": 2629632,
-            "hash": ""
+            "hash": "195B6C074D561039E31B3BCF1ADC98B65BB2761A75D0BB18E6F50149E3F9ACD77D048FCCC3B939E3741893C3E945BE0CE71606FF3C96ADDD7B3E6675FF1CEB8A"
         },
         "/modloader/skin/swmyri.txd": {
             "time": 1739892206.0,
@@ -4784,7 +4785,7 @@
         "/modloader/skin/swmyst.dff": {
             "time": 1739892202.0,
             "size": 3198976,
-            "hash": ""
+            "hash": "B241B7130DA894B2CE713479EA0C2C13E1DEBE7D5A279EB172EF17D9A38F81A1605C977F66D4ABDE343D06C7A75F64990B9996DCE52D0D481B26E402A16C526C"
         },
         "/modloader/skin/swmyst.txd": {
             "time": 1739892208.0,
@@ -4794,7 +4795,7 @@
         "/modloader/skin/vbmocd.dff": {
             "time": 1739892204.0,
             "size": 1685504,
-            "hash": ""
+            "hash": "230AF00D30D8409F5398F3D2040F9BA57EF6EC6B30133C9982EB285E987B00124C40623A70A0B67E24994F78DC67C106C7E4D64D2EBDAEACA2FBD65663BD6F8D"
         },
         "/modloader/skin/vbmocd.txd": {
             "time": 1739892208.0,
@@ -4804,7 +4805,7 @@
         "/modloader/skin/vbmycr.dff": {
             "time": 1739892202.0,
             "size": 3203072,
-            "hash": ""
+            "hash": "2F816523CAB584638D8AB8813EF4B18E8412B945C739E370644453605D4F9C4DF74233BFBF9D8D05E3354C543713EBC1890EBD96125F31A4D681FFA7F586E95A"
         },
         "/modloader/skin/vbmycr.txd": {
             "time": 1739892202.0,
@@ -4814,7 +4815,7 @@
         "/modloader/skin/vhmycr.dff": {
             "time": 1739892210.0,
             "size": 2150400,
-            "hash": ""
+            "hash": "31D94D3DD55CA308038EDA8886A623C17846FE2E57899E75D58A96AD3113689F977AC535A9DC2F576FB04394E9F91FE09597D9BBD0B414322E1E9C1F758138DF"
         },
         "/modloader/skin/vhmycr.txd": {
             "time": 1739892204.0,
@@ -4824,7 +4825,7 @@
         "/modloader/skin/vwmotr1.dff": {
             "time": 1739892206.0,
             "size": 3715072,
-            "hash": ""
+            "hash": "CDE4E554B199D20C2743207F522A329E235A95AE06122673A0C20F1EF635490B57BD7ACC93628D764D2A8D4516DEFF9A9F71D086EDAE8C985F93CD8CE4A9AB2A"
         },
         "/modloader/skin/vwmotr1.txd": {
             "time": 1739892206.0,
@@ -4834,7 +4835,7 @@
         "/modloader/skin/vwmotr2.dff": {
             "time": 1739892204.0,
             "size": 2152448,
-            "hash": ""
+            "hash": "A1DE3E558DC194AA83EE88F0DAF61EE8CF515BB35462E8AE6DD2252487F83DE6566FDDE6562672A483D3EA5427BB87DACEFEDDF2EE6337D8A24C1B12F4A24455"
         },
         "/modloader/skin/vwmotr2.txd": {
             "time": 1739892206.0,
@@ -4844,7 +4845,7 @@
         "/modloader/skin/vwmybjd.dff": {
             "time": 1739892200.0,
             "size": 2220032,
-            "hash": ""
+            "hash": "51BED5764F72D6A342BA27B522BBE8DD1755728816F3DEF191E194CF39356C84F20101B7FD3365FCC5ECF55685AFBD46699D3F9A082729783ED799F5B51C457A"
         },
         "/modloader/skin/vwmybjd.txd": {
             "time": 1739892208.0,
@@ -4854,7 +4855,7 @@
         "/modloader/skin/vwmycd.dff": {
             "time": 1739892208.0,
             "size": 3770368,
-            "hash": ""
+            "hash": "DDCD9DE56791FFC5D023B2CC8A736591E7481FE049C1288B8311B690AFAA9D8A50A469A5AD8E9E8AA5BD997D9188D8B91B0F559DEB525CB9DD7CDD65868B5E48"
         },
         "/modloader/skin/vwmycd.txd": {
             "time": 1739892206.0,
@@ -4864,7 +4865,7 @@
         "/modloader/skin/vwmycr.dff": {
             "time": 1739892210.0,
             "size": 2660352,
-            "hash": ""
+            "hash": "6FAA08E38CF9F0078F7E169FD790043F0EA154FDADD78CC94FDEF7C091E4FCEA81769AE633BAFADA9EF89A1572134DD8C0C94505230A2398CB0F6B0BAA97BE22"
         },
         "/modloader/skin/vwmycr.txd": {
             "time": 1739892202.0,
@@ -4874,7 +4875,7 @@
         "/modloader/skin/wmyammo.dff": {
             "time": 1739892204.0,
             "size": 2699264,
-            "hash": ""
+            "hash": "2450A7A718BFD518B36E0F4C923D1F7D6796982FD8399CF532F6CE01DF7A531EA2F3432093721C0E8989CBFB54C621316C193B587C7CB121D66AD83E26DDE41D"
         },
         "/modloader/skin/wmyammo.txd": {
             "time": 1739892204.0,
@@ -4884,7 +4885,7 @@
         "/modloader/skin/wmybar.dff": {
             "time": 1739892208.0,
             "size": 2449408,
-            "hash": ""
+            "hash": "7AEB6F0A2DED8FAEC95CC32EAF0217688EF44F0B7D11F0702993B1216C502527D0B1ACEBF42CCE72E372632A95A5C4D59BD2A04ADE50BC3DB603ED1C05E1E9D9"
         },
         "/modloader/skin/wmybar.txd": {
             "time": 1739892208.0,
@@ -4894,7 +4895,7 @@
         "/modloader/skin/wmybell.dff": {
             "time": 1739892204.0,
             "size": 2340864,
-            "hash": ""
+            "hash": "07023F5C2C198F244F79EE8CF0396C32182AB56CC105DAD0F2DB83411CC6BCE33A0FF1ECCDDFFDE392E3EE035D5CD9B5EC27C4625827AC2BC97C9630749D0879"
         },
         "/modloader/skin/wmybell.txd": {
             "time": 1739892208.0,
@@ -4904,7 +4905,7 @@
         "/modloader/skin/wmyboun.dff": {
             "time": 1739892206.0,
             "size": 2590720,
-            "hash": ""
+            "hash": "EF26B7799356D86E3A3318DB22A3D96AC450C2976E3E953122BE39BD2DFFEA9D818C1D599DAC9FEB00C260C64F75FB1F7A8D584E43F7923C3BE80E3F6BA90353"
         },
         "/modloader/skin/wmyboun.txd": {
             "time": 1739892204.0,
@@ -4914,7 +4915,7 @@
         "/modloader/skin/wmyclot.dff": {
             "time": 1739892210.0,
             "size": 3033088,
-            "hash": ""
+            "hash": "EADAC331DAFFCA8B29A10600ED3B94BE5D8E55D09248AC9FCF423B8DD70FDC665EF16456A50EB15B25BBE94AB6C0858955B0EE9BA514CCCE2562AE0D9133990C"
         },
         "/modloader/skin/wmyclot.txd": {
             "time": 1739892208.0,
@@ -4924,7 +4925,7 @@
         "/modloader/skin/wmykara.dff": {
             "time": 1739892204.0,
             "size": 3346432,
-            "hash": ""
+            "hash": "AE7D91B92977FCF3AE7170F83FD7943CF49CA0D8014EF5F565101DCB5FB1A7AC4C32B4C38A68B276706F482E7C2B41345CA6548B691D57DC68105DAFE8F14B6D"
         },
         "/modloader/skin/wmykara.txd": {
             "time": 1739892206.0,
@@ -4934,7 +4935,7 @@
         "/modloader/skin/wmyva.dff": {
             "time": 1739892206.0,
             "size": 3364864,
-            "hash": ""
+            "hash": "41174DFC76515C45AC976BC29F923014E265544F145C2AF2627FDC39257EDCFF342880254962B422D56986D010D37E783C20352CF844323E8F16DFBDF4FAF3EC"
         },
         "/modloader/skin/wmyva.txd": {
             "time": 1739892200.0,
@@ -4944,7 +4945,7 @@
         "/modloader/toy/002.dff": {
             "time": 1738780312.5295675,
             "size": 1095680,
-            "hash": ""
+            "hash": "8DC147FA915DA3E991709007C83DA288BAECEA2993E831EF73A35DFF34E8545AB425DB4EF8FA7F9B56463280A78052A693FCF950A0CE13D7A2D88F04106F6F7E"
         },
         "/modloader/toy/002.ifp": {
             "time": 1738737441.0,
@@ -4969,7 +4970,7 @@
         "/modloader/toy/ap29_honeycomb_prop.dff": {
             "time": 1738780313.3455355,
             "size": 1945600,
-            "hash": ""
+            "hash": "57C4562FD9C5485984AEA6D56EB5B82F2255B1AB125BF7BF03A1171CDCC56B2EAFF956C5AA8EF969EC86A63D6115B12E40A61704A5B980A27B49B3A162EFAE93"
         },
         "/modloader/toy/ap29_honeycomb_prop.txd": {
             "time": 1738780312.5111873,
@@ -4979,7 +4980,7 @@
         "/modloader/toy/ap29_text_nt_newbie.dff": {
             "time": 1738780312.6543734,
             "size": 577536,
-            "hash": ""
+            "hash": "1A7DC80E1DB468FA2BE5C6E1392F37990EF39D8DA1CB5FB8AC660A18DBBD56ED62037B6970F6D49876D83244CBADCE3199C69BD6BFD2B01BE3C0FDCF2EE9C2E6"
         },
         "/modloader/toy/ap29_text_nt_newbie.txd": {
             "time": 1738780313.0787601,
@@ -4989,7 +4990,7 @@
         "/modloader/toy/ap29_text_vip_prop.dff": {
             "time": 1738780313.3595326,
             "size": 258048,
-            "hash": ""
+            "hash": "957C3FFE811096A8F46A6C6615B0816077FEFC678228C4FB9C6F49C53231CA2943802BA9545BACAED05C512A2FA824E07D47242405C5364F359A15095C0491E7"
         },
         "/modloader/toy/ap29_text_vip_prop.txd": {
             "time": 1738780313.2574096,
@@ -5004,32 +5005,32 @@
         "/modloader/toy/babysantaangel.dff": {
             "time": 1738780312.7087808,
             "size": 38912,
-            "hash": ""
+            "hash": "17D724CC57CDDB97ABCAFD0751D44A29EC019770A857D90A9C41A2C13A2D53299261FEC6E3591DDD9011132F3DE0688C349F248CB5F37E7CBBDC2D64DC8BE71F"
         },
         "/modloader/toy/babysantabackpack.dff": {
             "time": 1738780313.28282,
             "size": 229376,
-            "hash": ""
+            "hash": "FA3DD3880FD2C7B153526845E45BE6B3F249D5EAAEA46918DE303887B753EB4B1F66182F42D855CA18AAA39AF10DA7D59D31A370847389A34B4BB36540E0BDED"
         },
         "/modloader/toy/babysantadoll.dff": {
             "time": 1738780312.9210415,
             "size": 145408,
-            "hash": ""
+            "hash": "EEB3DA82E920578C08579976F877C2044F1110A262189381F1DEF69F5C559704AE81F12F7F425C9E06F3C6E6A05A0F2DC6AE08DEDCC5133F2FD1CB67705034B8"
         },
         "/modloader/toy/babysantagiftbag.dff": {
             "time": 1738780312.8314145,
             "size": 98304,
-            "hash": ""
+            "hash": "5EF39F349F7EA2EB495AE78D4071BA541C2EB99AEB85E14DA88D043C5994656D5A0AACA58FB8001AA599232886EB93201B34E9CD722301F71BFAC247F37F3ECD"
         },
         "/modloader/toy/babysantaheart.dff": {
             "time": 1738780313.3425152,
             "size": 243712,
-            "hash": ""
+            "hash": "BDF4611AB2CA162F29710F902FB956B71DDF4C45D2BECA9B13A5BE089B278917E72DF8C548C042A1550BAB65780CD4AABCD5771C014CEAED871F352D95BCB2EE"
         },
         "/modloader/toy/babysnowmerry.dff": {
             "time": 1738780313.1715267,
             "size": 104448,
-            "hash": ""
+            "hash": "1C618253CA11E916896212A4147076E457E14BC6580866BFE209D6FE74EAA69E4D7DBE8CE288BA222A56043A05DD2F34AB83FE6988D31150B5170360CA84641E"
         },
         "/modloader/toy/babysnowmerry.txd": {
             "time": 1738780312.8793416,
@@ -5039,7 +5040,7 @@
         "/modloader/toy/babysnowtank.dff": {
             "time": 1738780313.2394197,
             "size": 77824,
-            "hash": ""
+            "hash": "93C45376DA62A2D435CDD04B60DB6D03BA60CF021DF5CE1875D0238AED5EC4BF2B0E1D9C4E1ADC40F9845F378662BE3D65B166A56AE98BA52D343F150D48184F"
         },
         "/modloader/toy/babysnowtank.txd": {
             "time": 1738780313.3642461,
@@ -5049,17 +5050,17 @@
         "/modloader/toy/BagSS1_LV1.dff": {
             "time": 1738780312.7441895,
             "size": 772096,
-            "hash": ""
+            "hash": "7C76541658BF79D268C0F56BE497604C7E3B497663DC16933A7112D6D8D70B26FBF3CC4D9BCCF3E02B9FBA9402E9956594962C6CA7156FE988FC1902C75B3357"
         },
         "/modloader/toy/BagSS1_LV2.dff": {
             "time": 1738780313.2920942,
             "size": 133120,
-            "hash": ""
+            "hash": "3A8D51E488F0DD9229FBFC70A08FFE45BB933E71FCC13C3DAED8F893CC399AFE85116E34EA11BD352DF93A83B7A98C21438FB4DFA73855618D62D1A264688D32"
         },
         "/modloader/toy/BagSS1_LV3.dff": {
             "time": 1738780313.0376515,
             "size": 192512,
-            "hash": ""
+            "hash": "E9888484B2BBF48D1E2AB30605F0E7BF072946D4606F2122CC2F61F84B1EE78157DDD7C6CDF8115193DFF299780F967AA211F54C8C4778A035129226228B9ED9"
         },
         "/modloader/toy/BagSS1_TEX.txd": {
             "time": 1738780312.485541,
@@ -5074,22 +5075,22 @@
         "/modloader/toy/baseball_p1.dff": {
             "time": 1738780312.7478092,
             "size": 6144,
-            "hash": ""
+            "hash": "462211CCBFE2707BD0C22A5A02C35CABE763F6D6E6EFD30009558726872762B63F17564FF9194ABF9EEED5B93C1C6F39485593213F0AE32BD15CB6FC3F04D608"
         },
         "/modloader/toy/baseball_p2.dff": {
             "time": 1738780312.5658436,
             "size": 6144,
-            "hash": ""
+            "hash": "E399772A6A072877068531DC1757D89D8B3B739B18187E7A2495470E41B54BC887798E2446AA31B619B090148373A03ED2ADEBDFCA7C8CE922D720F70FA76AD5"
         },
         "/modloader/toy/baseball_p3.dff": {
             "time": 1738780312.4992712,
             "size": 6144,
-            "hash": ""
+            "hash": "64EDC614FB690AF87D45FAF7522D5B7CE9EE00A5DB0DF62D13EFF94AADD95D861A1C00490EEA4DEEADE059E59D8212A5005225A9188E9C5A20FF073468686122"
         },
         "/modloader/toy/battery_ap29.dff": {
             "time": 1738780312.5206218,
             "size": 1343488,
-            "hash": ""
+            "hash": "55CBAB281494FCCA2FAA919EC38BA1BB3D98F30C95A785A5C77DB53B657F783DA689E16AB328D301DA66FE500A318F58A6C9637915A75BD30C83B842C0E0248F"
         },
         "/modloader/toy/battery_ap29.txd": {
             "time": 1738780313.287608,
@@ -5099,12 +5100,12 @@
         "/modloader/toy/bbt_cat_back.dff": {
             "time": 1738780312.888281,
             "size": 399360,
-            "hash": ""
+            "hash": "FB8701AC9DE8D344CB42A5B777B7B1EAD2CCF4E451A4F9D71228E4B1AE680EFD76793D932D277A0DE10FAF40FAF5B055958FD8575E2976337B796F9ADF87F6C5"
         },
         "/modloader/toy/bbt_cat_head.dff": {
             "time": 1738780313.1035993,
             "size": 223232,
-            "hash": ""
+            "hash": "32E5D9024DB3D36242532A7A67CE3210B5A3BFD77B7441B6D8758FB99B5886A039C01B0690780D1B264897C03A969BE0726963335B9A752A1EDEA9A9118C02F6"
         },
         "/modloader/toy/bbt_cat_tex.txd": {
             "time": 1738780312.411336,
@@ -5114,7 +5115,7 @@
         "/modloader/toy/bg_rebal.dff": {
             "time": 1738780313.3005562,
             "size": 929792,
-            "hash": ""
+            "hash": "6F4631790B097CF1A0DD39762D9FBF12EBD1F4D9574B49DD22E65E102D66C44DDA8ADCDEF512881958A4FCF4B1474C1026F749757DFE3D08B04246A71D512C03"
         },
         "/modloader/toy/bg_rebal.txd": {
             "time": 1738780313.3193154,
@@ -5124,7 +5125,7 @@
         "/modloader/toy/bg_steelframe.dff": {
             "time": 1738780312.864363,
             "size": 235520,
-            "hash": ""
+            "hash": "7DB66BDE6B7EEEBC6C6A76E5F1898D565B5D408DB55FEBF7B14E603FB9929831F602658BADB87DDC544FC84A41B178EC7889EDEF7DAE4B6597B360D0E242B931"
         },
         "/modloader/toy/bg_steelframe.txd": {
             "time": 1738780312.6271722,
@@ -5134,7 +5135,7 @@
         "/modloader/toy/bg_steelframe1.dff": {
             "time": 1738780313.2224147,
             "size": 16384,
-            "hash": ""
+            "hash": "D74E44F6B3026E6F44AF751C321CA1236822CBC48A20DB37FBA7B4BFE78DF49B9A84EFE2BAE215B38CD9B649259E7270D7BFE6A2784E85E50A225C0CEE02B4BE"
         },
         "/modloader/toy/bg_steelframe1.txd": {
             "time": 1738780313.1543775,
@@ -5144,7 +5145,7 @@
         "/modloader/toy/bunnyhandright.dff": {
             "time": 1738780313.3609178,
             "size": 198656,
-            "hash": ""
+            "hash": "EA39ECDEE6B72C1609A4B129C48301340CA490C7C0FCF6FC84A3F3931CFAC26E1D7CAC6499E473390742DF3B08E970DA0C393EA7F6347E167E48066BD1B90E0F"
         },
         "/modloader/toy/bunnyhandright.txd": {
             "time": 1738780313.059568,
@@ -5154,7 +5155,7 @@
         "/modloader/toy/bunnyhead.dff": {
             "time": 1738780312.8334472,
             "size": 206848,
-            "hash": ""
+            "hash": "68C222D005A13DD6D1C747C80C59A5E8EF4DEF5D281D8E2EC1A4CB2CC8F4A92D1BAC7DECE7F18E83E4C685918A2B0013572F1E8391246C94E82A7598A29842FE"
         },
         "/modloader/toy/bunnyhead.txd": {
             "time": 1738780313.0136192,
@@ -5164,7 +5165,7 @@
         "/modloader/toy/bunnyleft.dff": {
             "time": 1738780312.4661126,
             "size": 202752,
-            "hash": ""
+            "hash": "8EE31C8AF466E1B7848177FA3F8A611D40AD528695F5013FC1750B1C94FFE7381BBDD82175FD60736575DBE6036DEE9A034C0249E0074C08F54E874E4722F1F7"
         },
         "/modloader/toy/bunnyleft.txd": {
             "time": 1738780313.369662,
@@ -5174,7 +5175,7 @@
         "/modloader/toy/bunnyright.dff": {
             "time": 1738780312.4208663,
             "size": 202752,
-            "hash": ""
+            "hash": "05689320F25250DDC617E9227209BDE41D54211C97AA14BDE66A6CF42D210C947612FC136A90A5BF58785DE0B89436261E88F441015DCE1D50E437B615A2240F"
         },
         "/modloader/toy/bunnyright.txd": {
             "time": 1738780312.6862907,
@@ -5194,32 +5195,32 @@
         "/modloader/toy/butterbear_bag.dff": {
             "time": 1738780313.3717837,
             "size": 376832,
-            "hash": ""
+            "hash": "BFEF6F18AC0FE7ADAC6E59A63DA3E42BB019B634884B2531E1BDF45216ABB898A60B7C7702F04C470C2BF5AD8133A0AA5260D14C4BE542A7D670B812C5CCA6C3"
         },
         "/modloader/toy/butterbear_cupid.dff": {
             "time": 1738780312.658553,
             "size": 354304,
-            "hash": ""
+            "hash": "B66A1AE25FC4FB43403855E700983835795A4CCC6E8AC043F37BEEB12FBD8CF2CFDCD403DB38F5F2F79A91E0BB21A2413398B1E41971CC8A3F51DA55EA5E749E"
         },
         "/modloader/toy/butterbear_dance.dff": {
             "time": 1738780312.7102802,
             "size": 329728,
-            "hash": ""
+            "hash": "F78EDE7F6B3DD1988CB0EE3E845113BA2806CF2C8870290F24393F19DD32A2BB95523BA1FA08064EDFCFCFA71CC217159E3324B5E9AF73BBBF971E93A48187F6"
         },
         "/modloader/toy/butterbear_heart.dff": {
             "time": 1738780313.3079488,
             "size": 356352,
-            "hash": ""
+            "hash": "7662A6347F023640A6331D4E2F5834026450E06B55E09A73DFC8D8206234DC873492794412DF4941BB79A2E8B4F23B0F9049DFF0DE92B91A29848F9CFE65FC74"
         },
         "/modloader/toy/carkids_gabund.dff": {
             "time": 1738780312.7315059,
             "size": 587776,
-            "hash": ""
+            "hash": "770E22E1A9AD6AD87B2031CE7EA0F47ABE566E97E7FBA7AA1A757CCD594A94E29414CEEFD12F7E9C4B24643B9F7180DB1005A3A4E0CEF26D162ED2995CFE2A60"
         },
         "/modloader/toy/chest_ap29.dff": {
             "time": 1738780312.9802642,
             "size": 258048,
-            "hash": ""
+            "hash": "8807997981D835D2389782038306B962330CFA5EC6FDFD2D1CBE76B4D483D8D22A85371B5464457FD4B6AB40D071C7D8AC587C26F9F7F03884FDA7E6141DEB0C"
         },
         "/modloader/toy/chest_ap29.txd": {
             "time": 1738780312.5162573,
@@ -5229,7 +5230,7 @@
         "/modloader/toy/Chii.dff": {
             "time": 1738780312.7002385,
             "size": 487424,
-            "hash": ""
+            "hash": "F0034AA6B72FD350A55ECC132486927BC0AB6C0A4717DB6068A49E14DCC97DC072C9D74FDEF42E0CFC122E6036802CC3E2E21D35A9C6A03D22662A34A0131B77"
         },
         "/modloader/toy/Chii.txd": {
             "time": 1738780312.4556675,
@@ -5239,7 +5240,7 @@
         "/modloader/toy/chnsaw_prop.dff": {
             "time": 1738780312.3948605,
             "size": 194560,
-            "hash": ""
+            "hash": "C887D69467A7B29D3E0E90471A259010ABA182E2164A0D90FC3175AAFEFBB926C3C762D53D857BFC5888C151AC8C9B00CF680A8532FF85097729B916BBA1F89E"
         },
         "/modloader/toy/chnsaw_prop.txd": {
             "time": 1738780313.0996475,
@@ -5249,7 +5250,7 @@
         "/modloader/toy/chrome_prop.dff": {
             "time": 1738780312.8419237,
             "size": 229376,
-            "hash": ""
+            "hash": "18921E0C0571354C7EB448C4C7F6B7B5974B68743CB1BBA7F4C12374F6886CE55CF04C23D6B5425A07569F745246DF717F916A5B8CC5210D060A956E2A18BC2B"
         },
         "/modloader/toy/chrome_prop.txd": {
             "time": 1738780312.5951815,
@@ -5259,7 +5260,7 @@
         "/modloader/toy/circle_alpha_orange.dff": {
             "time": 1738780313.226505,
             "size": 28672,
-            "hash": ""
+            "hash": "6D5EADF68679368A53ABFFF48B11C8229F3F3D719100ED99FD74D8C4B088FA9E951EB8A60A1EE1D8934E8542F9551DEEA6DA4C232E8C7BC5B3AC75474EFA0677"
         },
         "/modloader/toy/circle_alpha_orange.txd": {
             "time": 1738780313.3025377,
@@ -5269,7 +5270,7 @@
         "/modloader/toy/concert.dff": {
             "time": 1738780312.9576542,
             "size": 1361920,
-            "hash": ""
+            "hash": "21EFBEFEDC34D6D0B46053400E76FF8DCCC8DEB8C5C6F158733BCE0BA5BFC836BDE7CEC8F7618F7108CFEC0BA63D05AEE73DA20605CAD4E43BFFEB0C508B84D8"
         },
         "/modloader/toy/concert.txd": {
             "time": 1738780313.1974964,
@@ -5279,7 +5280,7 @@
         "/modloader/toy/Dragon.dff": {
             "time": 1738780313.109594,
             "size": 778240,
-            "hash": ""
+            "hash": "FD2FC9E5CC938B17B747E165FE2A8A234A7CC08D8CDACB87B55CFFE511E22B30FB43382F82E6A68028E8697160F54A4D67D6E9A01BD6E0DD546AF454DF313010"
         },
         "/modloader/toy/Dragon.txd": {
             "time": 1738780313.0357008,
@@ -5294,32 +5295,32 @@
         "/modloader/toy/duck_cute1.dff": {
             "time": 1738780313.291107,
             "size": 526336,
-            "hash": ""
+            "hash": "B7983C5135A16FC3E39DE7E97469779A27ECA5BEC7FAF268698F6922793F3FE0E4E17A267F39196B4C278B3FBFA1F23EE3E3876B735DEC84AEA15D2AE2BB795C"
         },
         "/modloader/toy/duck_cute2.dff": {
             "time": 1738780313.1352806,
             "size": 473088,
-            "hash": ""
+            "hash": "96577CEDD39DBD0A7F0DABBDA259054746BBD2014BD1C33977E9893D5F8AC74B240CCD50F0F1E9DB9EBC4B1EE506B5F9DC9594DE9DD267731AB7654A03103DC9"
         },
         "/modloader/toy/duck_cute3.dff": {
             "time": 1738780313.2433577,
             "size": 446464,
-            "hash": ""
+            "hash": "C7BCAF78452A2CBAF9071DD96C67EC8D6F5E70BBFE8F53EBC5C89A33F0421F757BDFF3CFBB8CBA6EF1926AD0564805ADAE7501CC92B3720EC5C9DDB6CDB49968"
         },
         "/modloader/toy/duck_cute4.dff": {
             "time": 1738780313.1905606,
             "size": 622592,
-            "hash": ""
+            "hash": "AFA75546997412E7B8AC945F2CA009A28943026B2AACBE2D33DB5ADB15C32A42680210B4C7BFB87C6413E865915D72DD8C32DD14F662BB1C7F581FFF6B6F385F"
         },
         "/modloader/toy/duck_cute5.dff": {
             "time": 1738780312.8603816,
             "size": 778240,
-            "hash": ""
+            "hash": "690F117308883D2759DDB780DAC68E32A418C18BE62BCE8BBEF9D7249B2885B40F2457452BC163BDE9695B82222D8E29487473258322C6E7702048AE8A4C94BA"
         },
         "/modloader/toy/ecinnamonbag.dff": {
             "time": 1738780312.9195256,
             "size": 126976,
-            "hash": ""
+            "hash": "F3C38865FA967E90EDC29E95476049D01802BB1BD92A8E3CF5516FAC997F9B1232C42AB8877DA1E4CB5735BFEDE955BAA681E83F4325B4DEF7B30F54BD1B0C80"
         },
         "/modloader/toy/ecinnamonbag.txd": {
             "time": 1738780312.8838334,
@@ -5329,7 +5330,7 @@
         "/modloader/toy/ecinnamonhead.dff": {
             "time": 1738780312.9534438,
             "size": 120832,
-            "hash": ""
+            "hash": "2FFB36B0A73279395130564C8240C883B7C68E5A31559C98FCE9E627B066D2E8FAD714072D098B2E3BB99C79C108740B1E45080BB6AFF6091C2C49B5955A77C0"
         },
         "/modloader/toy/ecinnamonhead.txd": {
             "time": 1738780313.178206,
@@ -5339,7 +5340,7 @@
         "/modloader/toy/fence_songkran.dff": {
             "time": 1738780312.6821513,
             "size": 16384,
-            "hash": ""
+            "hash": "B2BE7411DF1BBCB87C7D40706F05D5DAE48C7D59F91DC964526AB89C62779AE48DD7CFC9A0FB923E41D15C6BB098C51AC297C17F34DA727FCBE6D6F6AB65ECE7"
         },
         "/modloader/toy/fence_songkran.txd": {
             "time": 1738780312.526027,
@@ -5349,12 +5350,12 @@
         "/modloader/toy/fence_songkran_01.dff": {
             "time": 1738780312.8828485,
             "size": 4096,
-            "hash": ""
+            "hash": "820A869752CBA7D21944BDA5BC5A81389CC6AF49420D29A89F9D9D462F724B2B231755AA6208BA40AA3D99CDA0C952D67971F9C91F9D0FCF3DBF893A896F561D"
         },
         "/modloader/toy/floor_25_a.dff": {
             "time": 1738780313.0548584,
             "size": 4096,
-            "hash": ""
+            "hash": "F370549AAE5313046A94DCAEF3C4FE3D4A4EE3434587DC5444D70F305B5D4937EE3470B793EA943FD0D6B5EDF6BE8C9A4041DE046D9287C722D2F486F29A2FF3"
         },
         "/modloader/toy/floor_25_a.txd": {
             "time": 1738780312.8115807,
@@ -5364,7 +5365,7 @@
         "/modloader/toy/floor_54_b.dff": {
             "time": 1738780312.5142474,
             "size": 4096,
-            "hash": ""
+            "hash": "C7B6807D73F29379748C86C2BCDCC5CD1AD039B57DF24EA870129EF6599CDCC6E69FE8320896AADB3824BD7A0214F4660AAE3C59F18932A45DBBC79B9D39E93A"
         },
         "/modloader/toy/floor_54_b.txd": {
             "time": 1738780312.5152524,
@@ -5374,7 +5375,7 @@
         "/modloader/toy/GrottiLV.dff": {
             "time": 1738780312.7046964,
             "size": 28672,
-            "hash": ""
+            "hash": "746100AEEA7CE84050DA59943432D566E844B8820CE7E8BB066905A32D66D4B408C587AEAF9B9381CB4CAC6618E152CF1D080A19B858F69C74BA7DF90AA4AF03"
         },
         "/modloader/toy/GrottiLV.txd": {
             "time": 1738780312.3222225,
@@ -5384,7 +5385,7 @@
         "/modloader/toy/hand_diff_010_a_uni.dff": {
             "time": 1738780313.0936491,
             "size": 503808,
-            "hash": ""
+            "hash": "43BCC17F825007D520C95AC0D88EDCB8D0A9F5E566036ED2A831B42D28A3AE557BDD9081E39AC5A02EE52E5ADB828559BCADE9C6A399EBE21C5B6C338BC4BBE2"
         },
         "/modloader/toy/hand_diff_010_a_uni.txd": {
             "time": 1738780313.3218064,
@@ -5394,7 +5395,7 @@
         "/modloader/toy/happyxmasbag.dff": {
             "time": 1738780313.2413244,
             "size": 190464,
-            "hash": ""
+            "hash": "F75C88A6823C22129FBF7753E3178F2D2B983D99439A9929C2BDD95102E1E0D54168FFB820B69563D5E8F956D4A3F9D5E8FFAF170BD4D539235E0AD07FD8C28D"
         },
         "/modloader/toy/happyxmasbag.txd": {
             "time": 1738780312.8304307,
@@ -5404,7 +5405,7 @@
         "/modloader/toy/happyxmasbear.dff": {
             "time": 1738780312.3374493,
             "size": 116736,
-            "hash": ""
+            "hash": "5C794E19FE017B41B66A54D2064ECD7A807F718FB1A4E63F277807778373C7016228DB1469C6E7D659C8DBDCE8C20691197241334912B9F0A312C8CD46C49FD4"
         },
         "/modloader/toy/happyxmasbear.txd": {
             "time": 1738780312.7178154,
@@ -5414,7 +5415,7 @@
         "/modloader/toy/headmonkey.dff": {
             "time": 1738780313.306748,
             "size": 120832,
-            "hash": ""
+            "hash": "0EF7A8C69097CEB2660A01589DCBF9B4F803A8A588238FB1D174742D9B4C986A4B60E7555954A87ADE3115A374FFA0DF426DA0143E55EA01F5E7657082FF6A4B"
         },
         "/modloader/toy/headmonkey.txd": {
             "time": 1738780312.7392833,
@@ -5424,7 +5425,7 @@
         "/modloader/toy/HeatsonHead.dff": {
             "time": 1738780312.961627,
             "size": 348160,
-            "hash": ""
+            "hash": "EF5AE482966BE10745CABF180F62E21A791FDFB228F34C5BA3360D5B9AF330A98F17955A99E32F975FFA97716DB0247D9A17A52D3470426DF108D82F3E738424"
         },
         "/modloader/toy/HeatsonHead.txd": {
             "time": 1738780312.9169583,
@@ -5434,7 +5435,7 @@
         "/modloader/toy/houseg_base_detail1.dff": {
             "time": 1738780312.9079053,
             "size": 880640,
-            "hash": ""
+            "hash": "F54845318D56B0C70253675087D4E851AB11CA4592E23D6423C50EE1232A0A670C5C18D43568AFA2F7987BEBA20AEA0682B6CC051A988E5F70D125E895A56379"
         },
         "/modloader/toy/houseg_base_detail1.txd": {
             "time": 1738780312.6606019,
@@ -5444,7 +5445,7 @@
         "/modloader/toy/houseg_base_floor.dff": {
             "time": 1738780312.8504684,
             "size": 825344,
-            "hash": ""
+            "hash": "D4C07764E459FE97C16812601A0B59D379172BF4BCE153518631D334F350C33C232A8F93A463E7A607BACDEA7411A81E4D517B6B13C89721226BDA90D60C8240"
         },
         "/modloader/toy/houseg_base_floor.txd": {
             "time": 1738780312.316157,
@@ -5454,7 +5455,7 @@
         "/modloader/toy/houseg_base_stair.dff": {
             "time": 1738780313.1174123,
             "size": 231424,
-            "hash": ""
+            "hash": "D32853E84F9DB8C23392CE83424A6F4B3901AF1D22F7F934F346F6E697A2CC209CCEE7A23C39493D3063B1E1AA69C0F7BEFF27257BA6F0C223CF3623855F17DB"
         },
         "/modloader/toy/houseg_base_stair.txd": {
             "time": 1738780313.3307402,
@@ -5464,7 +5465,7 @@
         "/modloader/toy/Inosuke.dff": {
             "time": 1738780312.3202085,
             "size": 2138112,
-            "hash": ""
+            "hash": "36D5D4051944209E3FF5B185ADD4C2E080ECFD7215911901FCE6AA30D3B06A894570475E0E5A37ACA65650357072008E1C41C65A127EBF31DF2E08E7526AB4F4"
         },
         "/modloader/toy/Inosuke.txd": {
             "time": 1738780312.3702674,
@@ -5474,7 +5475,7 @@
         "/modloader/toy/item_black_money.dff": {
             "time": 1738780312.973395,
             "size": 2048,
-            "hash": ""
+            "hash": "81A01847F12EB296A5FEF6E17BBEAA2E9766018A3753B767140A20C61A11A1B44EA4F6695D347FE57EA357FE031310F4171E1C7EB839FBB60D4406E9C764F34E"
         },
         "/modloader/toy/kaiwhan_labubu.txd": {
             "time": 1738780312.9435978,
@@ -5484,27 +5485,27 @@
         "/modloader/toy/kaiwhan_labubu_bag.dff": {
             "time": 1738780312.5972135,
             "size": 432128,
-            "hash": ""
+            "hash": "5D6C57CAF73C6BC8369DED0A8A76D7624C25963F18920D71E86084EB859D99C14D6A7A4F020B816E4928A86DE67A1A8B807E775DDDA7D503695C5A7FCB88C8AE"
         },
         "/modloader/toy/kaiwhan_labubu_left.dff": {
             "time": 1738780313.187993,
             "size": 573440,
-            "hash": ""
+            "hash": "1228976390BA6A0D6C3C8BA5061407824598711BA4721FCD762472A5EB7E7BF59FF6EF6D0C24CA906D713986DBD3324D55C389D3A607F2AE6AA47DBA5CFF6F6A"
         },
         "/modloader/toy/kaiwhan_lbb_shleft.dff": {
             "time": 1738780313.1045773,
             "size": 176128,
-            "hash": ""
+            "hash": "9430F08EF3D3FF7119245D4AE5D80E1E4A2FB7476B3A676FFD6D7B0C6CD386891E1330274FE88321E99AC5B39C061E6A1D860665E584E73FC72E9C13A25B4444"
         },
         "/modloader/toy/kaiwhan_lbb_shright.dff": {
             "time": 1738780312.6806614,
             "size": 176128,
-            "hash": ""
+            "hash": "2BA59B5BAC252BDD5D05920608B90F4C265B1721C08252E3FAAF71DF81439F8A56657F8DD5545EA75D9F459528A60B92CC36533EBAB362DB826EF302BC194524"
         },
         "/modloader/toy/KatanaWombat.dff": {
             "time": 1738780312.4094348,
             "size": 88064,
-            "hash": ""
+            "hash": "390B1EC8F17BD71B191786B078ABB989B9D630F5B81732765CE5C9218C6177EDAF117AAF30FF691F8B2B69A9B7B7062F3105496AB6503FF189FA98EFED22DAEE"
         },
         "/modloader/toy/KatanaWombat.txd": {
             "time": 1738780312.9522417,
@@ -5514,7 +5515,7 @@
         "/modloader/toy/kh_lotusbear_anim.dff": {
             "time": 1738780312.5902843,
             "size": 610304,
-            "hash": ""
+            "hash": "206091C2C4225C64F33BB9B38585D3F1F64E8D9E0FD7C117271936A456A772227EB332E0CA32FD94C560EA95EEC4D47382792360D4DD74D6B7E89572D2FF4B54"
         },
         "/modloader/toy/kh_lotusbear_anim.txd": {
             "time": 1738780313.381613,
@@ -5524,7 +5525,7 @@
         "/modloader/toy/krathong3_firefly.dff": {
             "time": 1738780312.2829795,
             "size": 92160,
-            "hash": ""
+            "hash": "4E44AABE5D731BAFC1D6033E147050D02D33C225709A0D1D6E90CB4F66BAF568E65002C4C54A8686AD4B03BCF728ABF8BD366BA3BCCEB50F4A7B10DEE5FE9056"
         },
         "/modloader/toy/krathong3_firefly.txd": {
             "time": 1738780313.2255206,
@@ -5534,7 +5535,7 @@
         "/modloader/toy/krathong3_fish.dff": {
             "time": 1738780312.8994694,
             "size": 174080,
-            "hash": ""
+            "hash": "2DF77C1A554FE85121E39164840AC0BD827E16CE568620D02799D7F1655D5967A432B7D7F12B36B83B052CE34ABF4F3E46CB6FE59ADFDBD60FF130C02ED8F216"
         },
         "/modloader/toy/krathong3_fish.txd": {
             "time": 1738780313.356828,
@@ -5544,7 +5545,7 @@
         "/modloader/toy/krathong3_fish2.dff": {
             "time": 1738780312.33031,
             "size": 133120,
-            "hash": ""
+            "hash": "A9A97AEBB0FEF8F0EDFFB887BBE487AD811046BF9F6030B0289BDA490BDA38D8961F53FCFF289A234125E06A1BD025454643AB669C9E22AAE919609D17917E25"
         },
         "/modloader/toy/krathong3_fish2.txd": {
             "time": 1738780313.3045862,
@@ -5554,7 +5555,7 @@
         "/modloader/toy/krathong3_otter01.dff": {
             "time": 1738780313.323887,
             "size": 247808,
-            "hash": ""
+            "hash": "57B127553E0EA6D8BD445BF912E192850C763BE8B93E0756F93B3221521207558482F4F23C3DA4491EEDF69BE9A59FB7A19584B5490226B0CC35DA389FC460A9"
         },
         "/modloader/toy/krathong3_otter01.txd": {
             "time": 1738780312.763311,
@@ -5564,7 +5565,7 @@
         "/modloader/toy/krathong3_otter02.dff": {
             "time": 1738780313.1372378,
             "size": 219136,
-            "hash": ""
+            "hash": "C60916AEA9A433514C34648222EF85C72A83D804B46C1F4CA891985B511CA916EA5C9BEC1B07EBD0ED0554BA508440FDD0E38964F037AFDE058DB27E5C120A05"
         },
         "/modloader/toy/krathong3_otter02.txd": {
             "time": 1738780312.8195584,
@@ -5574,7 +5575,7 @@
         "/modloader/toy/kw_butterbear_bag.dff": {
             "time": 1738780312.5629132,
             "size": 808960,
-            "hash": ""
+            "hash": "B19EA0DB26F963EE075C5D5D2A49F3C6D49CED6081CE75A1B5220384DFFB4CFBCA735E09F3F2687C365E9E009124EDE9F3825F04F5C26D15CAEA4FC7A3051995"
         },
         "/modloader/toy/kw_butterbear_bag.txd": {
             "time": 1738780313.3123925,
@@ -5584,7 +5585,7 @@
         "/modloader/toy/kw_butterbear_head.dff": {
             "time": 1738780312.4181702,
             "size": 2490368,
-            "hash": ""
+            "hash": "B317E22899D43B62038C3BC61FE05CA29BC446E99C96D3269455D9F9227B4B89F0284A88E97AB1C49D2DC32A6EC29DCB50C6302E241F341FBC0BE36C0598413E"
         },
         "/modloader/toy/kw_butterbear_head.txd": {
             "time": 1738780312.4969642,
@@ -5594,7 +5595,7 @@
         "/modloader/toy/kw_lktsix_staffbear.dff": {
             "time": 1738780312.8479779,
             "size": 434176,
-            "hash": ""
+            "hash": "CD313FF8A29D0701AF29ABC968906DA5883080503A23D002F69B924802BA8175439BD58207AFA03080C00FA30AFEFF34805CD296C5CED66A72C13531A0DB80B9"
         },
         "/modloader/toy/kw_lktsix_staffbear.txd": {
             "time": 1738780313.3284097,
@@ -5604,7 +5605,7 @@
         "/modloader/toy/lemon_prop_spwan.dff": {
             "time": 1738780313.2358603,
             "size": 473088,
-            "hash": ""
+            "hash": "362FDDB52391F342A2EE5BE585458323C768B6019339E8244B164501031744162D276738582BE2EA667F35CA70B0994E91CE3546101BC98ABB2ED641C6DDF87B"
         },
         "/modloader/toy/lemon_prop_spwan.txd": {
             "time": 1738780313.1333258,
@@ -5614,7 +5615,7 @@
         "/modloader/toy/lktsix_bear_anim.dff": {
             "time": 1738780312.2979145,
             "size": 819200,
-            "hash": ""
+            "hash": "0B6316B2FE98EDF0A2E48A4FF48B4DF007F1E70532272F211DE901C2636D4975572CE5883C1C4A983FE4917C0C6416427948DBB06B4E7776D3D50C484D51D913"
         },
         "/modloader/toy/lktsix_bear_anim.txd": {
             "time": 1738780313.2979867,
@@ -5624,7 +5625,7 @@
         "/modloader/toy/loja.dff": {
             "time": 1738780312.8752701,
             "size": 1019904,
-            "hash": ""
+            "hash": "1F869584D853C5DE4E103B31F8BA3D5CB35D5A9C750E8FCF091916CFE37182FC6B8373D24DE015CEC4939F8E8A57DB165ACF37D1DCA08E73FB36689493B7D9DB"
         },
         "/modloader/toy/loja.txd": {
             "time": 1738780313.0961828,
@@ -5634,22 +5635,22 @@
         "/modloader/toy/luxe_melody_back.dff": {
             "time": 1738780312.9359481,
             "size": 280576,
-            "hash": ""
+            "hash": "427383F241454056D5364CCC5DC64AED32C466C68AE1FAAC25448964A3900501040DD88A608377FB4BBD00630F232401490126B167F3A5C09D82536D70828DA5"
         },
         "/modloader/toy/luxe_melody_head.dff": {
             "time": 1738780312.7595408,
             "size": 618496,
-            "hash": ""
+            "hash": "52902260ADF69DF59117E69F7BBFFA3842A2A4F93C0FB4A591C67DBB8ED11A764420BDD9A10F2EA3BCE0351B7BF206DA5305D2486A550F39C6271ACE60278AB9"
         },
         "/modloader/toy/luxe_melody_left.dff": {
             "time": 1738780313.2274823,
             "size": 317440,
-            "hash": ""
+            "hash": "F6059D41A9977819C5B75089D9CC5D0514B9883ADCF5D8CFD25E3B05FE757352C01F3A57B0FD1D195A99F58858EEB0FB27E10A2D07AC12C15B3BDD874E4F9072"
         },
         "/modloader/toy/luxe_melody_right.dff": {
             "time": 1738780312.3737705,
             "size": 354304,
-            "hash": ""
+            "hash": "F568DBD25BD1BF20B1CF1A6221F82750E9F71E0AFB5CCE3D6F5B94419D0E0972921F49A1DCE7D43F79682F317671CBEB7401A8CD4317C76EC7E29CC0FDD1AC49"
         },
         "/modloader/toy/luxe_melody_tex.txd": {
             "time": 1738780312.311201,
@@ -5659,7 +5660,7 @@
         "/modloader/toy/mapafk.dff": {
             "time": 1738780313.079265,
             "size": 18432,
-            "hash": ""
+            "hash": "39B4DCF5E049495D60B567808D8A93E6547AE3644686BF51D498314F2759E8F39B43384B95D1327D5957D5B4EDB671C524F7604C4A785D86AC3C82D64CEF13CD"
         },
         "/modloader/toy/mapafk.txd": {
             "time": 1738780312.4482932,
@@ -5669,17 +5670,17 @@
         "/modloader/toy/MarkerCarSymbol.dff": {
             "time": 1738780312.9782772,
             "size": 92160,
-            "hash": ""
+            "hash": "379394EA5AEAF1B75EC6C4DFB2D6FD45A53C4B0CAEEBE5F27995682602AAA9C73308DBAAC939B5FD6E067A973C10718B278E7DE8CB79BA28C1FFA6CEF94EC557"
         },
         "/modloader/toy/MarkerCarSymbol_02.dff": {
             "time": 1738780312.7468035,
             "size": 92160,
-            "hash": ""
+            "hash": "074BDC5707CDDBDD8D68E5DF08D16F67F5E35E54851AA669FD05F55CF56D5764D736021862B0B543EB3912BE203A9F4FD2E8488A2AAD41ED343607E732E2C936"
         },
         "/modloader/toy/MarkerReplayIcon.dff": {
             "time": 1738780312.7025871,
             "size": 108544,
-            "hash": ""
+            "hash": "C897461081BCAB6D828350F5900C65561943D005E154186542AFFE3C3F0398729451A695927D6610F5708A425DA503E0C4AECC0B6DACA32AA41BAB2B425BCDC1"
         },
         "/modloader/toy/MarkerReplayIcon.txd": {
             "time": 1738780313.0417101,
@@ -5689,7 +5690,7 @@
         "/modloader/toy/mask_new_01.dff": {
             "time": 1738780313.231532,
             "size": 292864,
-            "hash": ""
+            "hash": "20BAB8FA7384AB7C0046E7D690B78357D497D7E06F95798D684E6BF18D651DAD974E51D4247F6052A959025DA388FC1D5D642776BBD4B925E3B339D4087521C6"
         },
         "/modloader/toy/mask_new_01.txd": {
             "time": 1738780312.81653,
@@ -5699,7 +5700,7 @@
         "/modloader/toy/mask_new_02.dff": {
             "time": 1738780312.7529767,
             "size": 94208,
-            "hash": ""
+            "hash": "C3A7301D0A492F2A0A32DE0D5EA37A18A4FBEE257FAE4D51FD8DD835F39245EFE98E1BC309E82B9ED738D7CAE03AD463948225905A360CDE0742B9C9B09A218C"
         },
         "/modloader/toy/mask_new_02.txd": {
             "time": 1738780313.2103548,
@@ -5709,7 +5710,7 @@
         "/modloader/toy/mask_new_03.dff": {
             "time": 1738780313.1115544,
             "size": 178176,
-            "hash": ""
+            "hash": "10E5F0FB7A9C84D80A955EAA78A7B640D9CF8DE6CDEAC9C4ACAA41A81669B6F71ECEDBF118CE54ADEEAAD591286FF0426B9331FF679DCEB69B57038AE033A5A3"
         },
         "/modloader/toy/mask_new_03.txd": {
             "time": 1738780313.327434,
@@ -5719,7 +5720,7 @@
         "/modloader/toy/mask_new_04.dff": {
             "time": 1738780313.2378523,
             "size": 133120,
-            "hash": ""
+            "hash": "4C7EFD05A991E2274FEA0669BDB67F37CCC0A65F67D8162564B97F6949BBDA92C748998DA5FF4C3C9C3BBB4FE31D5F53D47C02F545DC7930215B446C39E7D468"
         },
         "/modloader/toy/mask_new_04.txd": {
             "time": 1738780313.2681563,
@@ -5729,7 +5730,7 @@
         "/modloader/toy/meow_effectsongkran.dff": {
             "time": 1738780312.6468203,
             "size": 395264,
-            "hash": ""
+            "hash": "B8C783022B183707052BFCDB997A47692651A0C02D91055524BA2FF0BAB0E3FCC8F46A5563D84D3831D9A25CB8A953A4331070722DA1559C2C4112DC74BC7EE1"
         },
         "/modloader/toy/meow_effectsongkran.txd": {
             "time": 1738780312.4296765,
@@ -5739,7 +5740,7 @@
         "/modloader/toy/meow_lny_meow01.dff": {
             "time": 1738780313.1238863,
             "size": 6144,
-            "hash": ""
+            "hash": "B49A491963F09A54656EF6FDA5E9EAFDDFA61DA72DCE9C540AB9DAC8FA13986F8176AB29C3F6ACA1906AB2C0CA27C5DEDAEC4945EEFB723883D74103E4042B02"
         },
         "/modloader/toy/meow_lny_meow01.txd": {
             "time": 1738780312.914939,
@@ -5749,7 +5750,7 @@
         "/modloader/toy/mewmew_3.dff": {
             "time": 1738780312.5845702,
             "size": 198656,
-            "hash": ""
+            "hash": "9E2CF83DB203E0245D172964A6006EB8FB05929EA2141B9BEF73CEDE0B1B0FE4E441C97CFEB40C7369A383CAF5986C09FE8AC72321F19D11A3E8A12103F371E0"
         },
         "/modloader/toy/mewmew_3.txd": {
             "time": 1738780312.341021,
@@ -5759,7 +5760,7 @@
         "/modloader/toy/MochilaCerdito.dff": {
             "time": 1738780312.5995927,
             "size": 36864,
-            "hash": ""
+            "hash": "60FA084AAFD3F468CE92EB9399C414F933C7F2ED0552651065AD2E2F733FC5190489DCD40507676432157207DBDFEDDEEAC0282FB83183798D7A8F44972CAB19"
         },
         "/modloader/toy/MochilaCerdito.txd": {
             "time": 1738780312.4033647,
@@ -5769,7 +5770,7 @@
         "/modloader/toy/MochilaGallina.dff": {
             "time": 1738780313.0625923,
             "size": 49152,
-            "hash": ""
+            "hash": "4BCA3F0B3E1AE4F6A6BC99F1FFCEFC74C2CAC3DEF03FCCAE33587F0BE89806C5FF632121968873B3A42BE7248D1F90F94442046F85757CAC7753BB31965B9914"
         },
         "/modloader/toy/MochilaGallina.txd": {
             "time": 1738780313.0716417,
@@ -5779,7 +5780,7 @@
         "/modloader/toy/MochilaVaquita.dff": {
             "time": 1738780312.954432,
             "size": 38912,
-            "hash": ""
+            "hash": "4A0A3D9CE2C262C875ACA378D9984043E6FCDA002242F45AE2BBD90A9FECEE1BA12E4BB8FA060F2F1962D1E953553A8C1F9FEC5D770282E17BD1398AFA2876F8"
         },
         "/modloader/toy/MochilaVaquita.txd": {
             "time": 1738780312.8984632,
@@ -5789,7 +5790,7 @@
         "/modloader/toy/moodeng_shoes_left.dff": {
             "time": 1738780312.302356,
             "size": 393216,
-            "hash": ""
+            "hash": "CC937201B71F026CE64834CB981ED468CEA78B70E8A60B7EEDDD4431957BB1179E654CF1114C7FDC986211C7373D4B61A5C00A9BB6877ADCED098A7182D7A3C8"
         },
         "/modloader/toy/moodeng_shoes_left.txd": {
             "time": 1738780313.1573098,
@@ -5799,7 +5800,7 @@
         "/modloader/toy/moodeng_shoes_right.dff": {
             "time": 1738780312.9014933,
             "size": 360448,
-            "hash": ""
+            "hash": "6FEAA620D78DA26C036448AF01808EF473FA13655CEB1DD3D4DA2E439A9245E1920DAFD5268454E14BCD3EE330BD58E46BC24F788B7CC326BE4E60898FD48720"
         },
         "/modloader/toy/moodeng_shoes_right.txd": {
             "time": 1738780313.1770623,
@@ -5809,7 +5810,7 @@
         "/modloader/toy/moodeng_text.dff": {
             "time": 1738780312.6842275,
             "size": 595968,
-            "hash": ""
+            "hash": "60FB95C7946CE418A4CFAFA9B51FE52AD64628CE797EC09572A4ED5261989777C8441766C873FBD295804031FE898D1711115DE52443E2D970CDD9903B46CC6A"
         },
         "/modloader/toy/moodeng_text.txd": {
             "time": 1738780312.9674902,
@@ -5819,42 +5820,42 @@
         "/modloader/toy/mother_flower_blue.dff": {
             "time": 1738780313.1135075,
             "size": 260096,
-            "hash": ""
+            "hash": "A88A63A21A2AA0F0A06754B83E7F3D770A96966AF9F543027622F930196297AE90A078334690F5C92EAC023D23469B1A62E33BE6476158FA031F8989B171728D"
         },
         "/modloader/toy/mother_flower_white.dff": {
             "time": 1738780312.789689,
             "size": 260096,
-            "hash": ""
+            "hash": "98BDD1BBDF3F49CDF02A00A8F806D981157696224E4B1471E1D68A1B9AB22AEFCDD0F8710260B3C067489824DF427FFFB0C60E39FC9F60C56B617821F46A512B"
         },
         "/modloader/toy/mother_text_eng.dff": {
             "time": 1738780312.90289,
             "size": 319488,
-            "hash": ""
+            "hash": "AB17D5B93D246F2C1981ED694488B812BD46CFAB9F8B7B050743B9330A772881190D49F7B355EE0C2D0993A920EEDFB3D6C3B096C6ACCA2ABED896382E7F45E0"
         },
         "/modloader/toy/mother_text_thai.dff": {
             "time": 1738780312.6935937,
             "size": 323584,
-            "hash": ""
+            "hash": "5B133B93FE387B0ED6EAA4F844FF6E513ED187DBA74BB433D0DBC3F62B54940AFFCA576B46E12C4C7B447433922080E62EBFCB842601101EDFE13BBCF4CF315C"
         },
         "/modloader/toy/munchkincat_arm.dff": {
             "time": 1738780312.791658,
             "size": 61440,
-            "hash": ""
+            "hash": "D7E5224D7CE845DDDC30FDC4081CF14DE6AB1352A6839CCC19FB5F07A8950FE13D5C072244F82DDB7F642D2ED1C3747A8F68390424B4E316048F77F124C75947"
         },
         "/modloader/toy/munchkincat_haed.dff": {
             "time": 1738780312.638119,
             "size": 116736,
-            "hash": ""
+            "hash": "1A200C6CB214BEFD6C9E7084245B500D747151A62A1575A95FD50B24E5D02113CED73996C04E5091DFF2B5134457252E35A99A67518DF9C7573C3816556C6410"
         },
         "/modloader/toy/munchkincat_mount.dff": {
             "time": 1738780312.3440154,
             "size": 59392,
-            "hash": ""
+            "hash": "CA27331A8C08D9179E79BE31B40EC9895A66930658FB9BBB0117B7113F511E6330189FB94BD2D2224449DD1B39FDAC4E798A953559C23A75DFD849F5B8C05787"
         },
         "/modloader/toy/munchkincat_run.dff": {
             "time": 1738780312.7668798,
             "size": 256000,
-            "hash": ""
+            "hash": "3CA8BAF7161F38AD60F41D13ADE874D3A92EE03C8022494460BEF39999F46C95C8923EF8F1ADD5E7E9AC151EA1C0C834789DB272F6ECD691B7EF983D4681B3F8"
         },
         "/modloader/toy/munchkincat_tex.txd": {
             "time": 1738780312.807069,
@@ -5874,7 +5875,7 @@
         "/modloader/toy/noone_obj.dff": {
             "time": 1738780312.8892882,
             "size": 374784,
-            "hash": ""
+            "hash": "7900B506A11681E9AE0ED2DCEB596F101529A420CCA7D079C2C7A68F5AD48121085387D05944AAADA0EED37CF37B2215EBE2F9ABA499E289C29C74BBA3FA8B34"
         },
         "/modloader/toy/noone_obj.ifp": {
             "time": 1738737456.0,
@@ -5889,7 +5890,7 @@
         "/modloader/toy/nt_houseg_base.dff": {
             "time": 1738780313.220899,
             "size": 1392640,
-            "hash": ""
+            "hash": "87171CC4A4A80DA23FA142EF5F615EC96811CD8C07EF3150CCEFAF91B25A9639701C30B7BA426CCD6CACD156833D2AA062AB28007148AB3226A64601F86D190A"
         },
         "/modloader/toy/nt_houseg_base.txd": {
             "time": 1738780312.6706147,
@@ -5899,7 +5900,7 @@
         "/modloader/toy/NT_PROP_CRAFT.dff": {
             "time": 1738780312.697644,
             "size": 2322432,
-            "hash": ""
+            "hash": "17F77604FD419CC534941AB521D4EE8D754146483642888214DD96A26767C2F3F2657D3F3853577D67EC1C4C272F144431BD34EFBFCE8B908071EB81A9B3CD44"
         },
         "/modloader/toy/NT_PROP_CRAFT.txd": {
             "time": 1738780313.0507116,
@@ -5909,12 +5910,12 @@
         "/modloader/toy/nuvemkids_gabund.dff": {
             "time": 1738780312.966515,
             "size": 159744,
-            "hash": ""
+            "hash": "45EAABC240AA78B564FC277E90B530C715DC442627E82347C75C20F40AEAA02F0224AC34849B7B4E7410EE8B41A35ACD4F9784FD271237D32F10710C430F4D2D"
         },
         "/modloader/toy/orange01.dff": {
             "time": 1738780312.964562,
             "size": 954368,
-            "hash": ""
+            "hash": "AE6FD1551EF3EA07A3D649DC3E9A03AC7FF9CEB668E4E1C3FCBA489705C59A7C6E0F99350CAF17F18C8BCD4FAD6BE7A319F1BDEC52ED2CF70C206730D93271F7"
         },
         "/modloader/toy/orange01.txd": {
             "time": 1738780312.5815995,
@@ -5924,7 +5925,7 @@
         "/modloader/toy/ore1.dff": {
             "time": 1738780312.289441,
             "size": 991232,
-            "hash": ""
+            "hash": "2E2C05997B2CC302EB5300C1102CFDB6B3AEBBB3714FDA55206AE6502D3F0CCEA2C7907F48EABDE0AE52FBA5B2C05813437DD461F236185096BA1F4E8FE8F68C"
         },
         "/modloader/toy/ore1.txd": {
             "time": 1738780312.391793,
@@ -5934,7 +5935,7 @@
         "/modloader/toy/Pigcute.dff": {
             "time": 1738780312.4348123,
             "size": 770048,
-            "hash": ""
+            "hash": "153A4A5105BD5E8CACD4966E60FF53B65B5270F9B7323821FAE0C05A437543BCC88968EDE9736EB9027BC4634E6EB9865474AE88A73B73392992B000BD8CF04E"
         },
         "/modloader/toy/Pigcute.txd": {
             "time": 1738780313.3505776,
@@ -5949,7 +5950,7 @@
         "/modloader/toy/PlushPandaPo.dff": {
             "time": 1738780313.23384,
             "size": 843776,
-            "hash": ""
+            "hash": "EFFB27B5AEE1898EC982C7025BF538BF864D1BF4465277286414C6AC0C61328E56FCB6961EDDAE496251378432CFF1AC1962633A912BB29C160F987AB8126E8B"
         },
         "/modloader/toy/PlushPandaPo.txd": {
             "time": 1738780312.5415514,
@@ -5959,12 +5960,12 @@
         "/modloader/toy/polvokids_gabund.dff": {
             "time": 1738780312.7549603,
             "size": 641024,
-            "hash": ""
+            "hash": "20DB0AFAF75251C3A56E48DF52F9A6DCF13C361700C249FC18B70995AE6E557F21C4175C445C4B5918CBFBA341F2C2D06E4AA860757DAC1CC9C2BD792E69C5B1"
         },
         "/modloader/toy/poolcue_weapon.dff": {
             "time": 1738780313.2649107,
             "size": 133120,
-            "hash": ""
+            "hash": "18BD5561B4797F5188AFE065D4C0FF9DB7BB6F355EFA5258ECA2444F8ED3C3BA73FB1D6FEFCDA249D2CD0E49E423AEC169823E1E137A061657F1B5EB7FC26CAF"
         },
         "/modloader/toy/poolcue_weapon.txd": {
             "time": 1738780312.7487955,
@@ -5974,12 +5975,12 @@
         "/modloader/toy/porcokids_gabund.dff": {
             "time": 1738780312.6309438,
             "size": 1196032,
-            "hash": ""
+            "hash": "123208F636082060DAC53E8B9C577CC16E2D4F02BE29DCD9B70B2950CF4A64D73B8EC71D4733ADDB86A7680C8E35946EC57A94C82AF5D9A0F484AD8FF7692814"
         },
         "/modloader/toy/porta.dff": {
             "time": 1738780313.0116637,
             "size": 653312,
-            "hash": ""
+            "hash": "D9850B5DA2392D33DD35CB3DCAC88AEB679F87D050D979DD537936591AEB3B32A7B7B6FA2ABB6E7E90502793A836AFDF16F384BA3D1C738F401270F06D66FCB2"
         },
         "/modloader/toy/porta.txd": {
             "time": 1738780313.1694956,
@@ -5989,12 +5990,12 @@
         "/modloader/toy/prop_cake.dff": {
             "time": 1738780313.3681543,
             "size": 1724416,
-            "hash": ""
+            "hash": "6177580E388DF3751C86C1768CBFB08252645FD70394C88E53504C6A1B58FA748EDCA576818854778335571C4131CF31F3DA6F9FA24E4B6B081B5E389FE26CEC"
         },
         "/modloader/toy/prop_cons_cements01.dff": {
             "time": 1738780312.8469236,
             "size": 174080,
-            "hash": ""
+            "hash": "C5BB1D1FA05B5B1716E92B4888DF452865FA01AC9EF412FBD8C92C4F29274F23FAED01946088BD27BF38082C2059D1EF39F3CCD37CBD06B7926D5F8353448884"
         },
         "/modloader/toy/prop_cons_cements01.txd": {
             "time": 1738780312.431777,
@@ -6004,7 +6005,7 @@
         "/modloader/toy/prop_decal_thai_01.dff": {
             "time": 1738780313.0605533,
             "size": 20480,
-            "hash": ""
+            "hash": "CA1AC0354DD629A8B3F8F2832E30B6DEA81852F6EB1A69AAEEE0CC9916D26413A9AB889BF68E451087C704B0EF87A16081EAC9AF1B59077F10665828CA9E160A"
         },
         "/modloader/toy/prop_decal_thai_01.txd": {
             "time": 1738780313.1204526,
@@ -6014,7 +6015,7 @@
         "/modloader/toy/prop_decal_thai_03.dff": {
             "time": 1738780312.328296,
             "size": 34816,
-            "hash": ""
+            "hash": "C5511DD187C5CE5B56798CB02CA6CCEFED2BC4E0A40347675ECEBBC4B1FC14C240D4DCC79F6E9F6497DC867C7C10F52563EF265118CA15F9316A8A576167E57E"
         },
         "/modloader/toy/prop_decal_thai_03.txd": {
             "time": 1738780313.1828318,
@@ -6024,7 +6025,7 @@
         "/modloader/toy/prop_elecbox_04a.dff": {
             "time": 1738780313.2546833,
             "size": 20480,
-            "hash": ""
+            "hash": "F41F0A8C8D8C6BD2F7F46ACF73344083C64061E2A44FA31F9BB21C8C5592548E2619E95070C7FEA1FAA79C580635DA10EDFCF635688FE35D5D000DCBEE3D2A49"
         },
         "/modloader/toy/prop_elecbox_04a.txd": {
             "time": 1738780312.347489,
@@ -6034,7 +6035,7 @@
         "/modloader/toy/prop_flag_base1.dff": {
             "time": 1738780313.2814212,
             "size": 667648,
-            "hash": ""
+            "hash": "536BE12A8F9E93F8787FD55015E75385509A1E6FFC5FB9A85B6CCC173600336E095C367C407CCEAC0D3F33BBB8B78A05717D73772AD4D46A79D6A5ADCA46EF0E"
         },
         "/modloader/toy/prop_flag_base1.txd": {
             "time": 1738780312.5595696,
@@ -6044,7 +6045,7 @@
         "/modloader/toy/prop_stage_01.dff": {
             "time": 1738780312.8723009,
             "size": 2048,
-            "hash": ""
+            "hash": "BB03483D7299A8834E9B21F129E6709A0E60A73C665F1DDF2B63ABC862CC2CD9B4FA1871048BA4C3699093EB52A1ED76FF792FE4882A77EEDB4E8307A12224B4"
         },
         "/modloader/toy/prop_stage_01.txd": {
             "time": 1738780313.0538702,
@@ -6054,12 +6055,12 @@
         "/modloader/toy/prop_weed_01.dff": {
             "time": 1738780313.1026232,
             "size": 194560,
-            "hash": ""
+            "hash": "D394991D84C9AB6BF28E867C713E9F5AD1ED21C32EB40DEC6C0BD15B17B2749347F15A1062D0B2E31034C8195DC685F30E36F699FB9D64CDC97F534618E32F54"
         },
         "/modloader/toy/prop_weed_02.dff": {
             "time": 1738780313.0893803,
             "size": 71680,
-            "hash": ""
+            "hash": "768FD0066DC3B0BED38848726C7B016B9B058BA4A2FD4064F54DF334718733DC70BC734222400D65461EAB6B928130B9A9F16F4BBE3EB7E9E562782011676DAD"
         },
         "/modloader/toy/prop_weed_02.txd": {
             "time": 1738780313.094636,
@@ -6069,7 +6070,7 @@
         "/modloader/toy/pug_L.dff": {
             "time": 1738780312.689336,
             "size": 647168,
-            "hash": ""
+            "hash": "61783AFCDFB3621BECE8DDC72D0EEFDD9ED3B5D66EC96F4682E6C3EF7EFE8F4C983D6346BACFCB42A1809EE99DA5C19D08F1A835D172552D7156F22AE352D0B5"
         },
         "/modloader/toy/pug_L.txd": {
             "time": 1738780312.8859212,
@@ -6079,7 +6080,7 @@
         "/modloader/toy/pumpkin02.dff": {
             "time": 1738780312.307222,
             "size": 1845248,
-            "hash": ""
+            "hash": "D363CE297268C2A5FC64DF8FBE7F775F7081D788D11C58177AF37281EDE3CEB58090C2EE8EF2152A3CB3055A7B7856D8BA4CBBE232AD9108F63C9D165CFB683F"
         },
         "/modloader/toy/pumpkin02.ifp": {
             "time": 1738737456.0,
@@ -6094,7 +6095,7 @@
         "/modloader/toy/pumpkin_job.dff": {
             "time": 1738780312.734969,
             "size": 1175552,
-            "hash": ""
+            "hash": "72EBEDA6BBFF7901205822C2C5ECE922F79BE8491AB001F97D86F0221DAF44E1D5D0FA730405119A8C51B80E5C5ACC82733C6846549783ED36B3FCFD643E3DF8"
         },
         "/modloader/toy/pumpkin_job.txd": {
             "time": 1738780312.5754013,
@@ -6104,7 +6105,7 @@
         "/modloader/toy/p_lightevent_all_01.dff": {
             "time": 1738780313.0145943,
             "size": 118784,
-            "hash": ""
+            "hash": "3F849C7176758000675138627C1D78C802500D99A7CE09C0B5CD2D7956CF1F30BD0D8B4609AA2C198B14DFA1B50324CD1A27F89CD4DF42AF77F780AC961A8BBD"
         },
         "/modloader/toy/p_lightevent_all_01.txd": {
             "time": 1738780312.825522,
@@ -6114,7 +6115,7 @@
         "/modloader/toy/p_lightevent_all_02.dff": {
             "time": 1738780312.4596105,
             "size": 118784,
-            "hash": ""
+            "hash": "12E596A6FBA4E2E606765A7B22B84F0BC0DCE1B58EE0D7C491966546A71C74057B617C484999EE008348A812A836C978842DE4BFB80CD6D1379956CCDC9FC6B0"
         },
         "/modloader/toy/p_lightevent_all_02.txd": {
             "time": 1738780313.1073866,
@@ -6124,7 +6125,7 @@
         "/modloader/toy/p_lightevent_all_03.dff": {
             "time": 1738780312.891608,
             "size": 143360,
-            "hash": ""
+            "hash": "CAF726354F8C6576D7173166189F6202C119FA3D91DA8FAD7D9C996742613536093B8519D3DE4E39D49058E8B3CADA9A102E47F8583227F0654602AF075067A7"
         },
         "/modloader/toy/p_lightevent_all_03.txd": {
             "time": 1738780313.2243898,
@@ -6134,7 +6135,7 @@
         "/modloader/toy/Rainbowcat.dff": {
             "time": 1738780312.5668168,
             "size": 172032,
-            "hash": ""
+            "hash": "DC55C2403316C847C56DB7C1425F8C10C75DC9E80B3E034216A20BA96C4BE6208FEF7EE2EAF697CB1B1AA0AC5FC03C6BB6C090CBAE22FE83F165B0BD6808E792"
         },
         "/modloader/toy/Rainbowcat.txd": {
             "time": 1738780312.3013797,
@@ -6144,7 +6145,7 @@
         "/modloader/toy/rb_halloween_back.dff": {
             "time": 1738780313.3253605,
             "size": 145408,
-            "hash": ""
+            "hash": "38A5CAF9E1E90FE3CBA5A2F28295032778F4B6770E7A5B1348625A152DF0805F9F16D0EC8DD2BE88F4F5B7DCAFF6B74FD5603B6FF7BDE43B530AA39FFEBE304F"
         },
         "/modloader/toy/rb_halloween_back.txd": {
             "time": 1738780312.3232276,
@@ -6159,37 +6160,37 @@
         "/modloader/toy/rb_hlw_handleft.dff": {
             "time": 1738780312.9935102,
             "size": 217088,
-            "hash": ""
+            "hash": "E399D7C299487C41BC9A89AB92565FCFE346CE5D0EA8ACA2FCF1395E176C3ECDA430A08C84E7F7335F1970706C268F6ECAE9C30F04E5AF6592C1465A1E882B8E"
         },
         "/modloader/toy/rb_hlw_handright.dff": {
             "time": 1738780312.3420043,
             "size": 120832,
-            "hash": ""
+            "hash": "C5B1CC42D0BF40D0A18CB138FD096A2D34AFF9FA22EB522EB27D2FC68C09AAF33289D079FDAF0EEDA7E1A84ECE0C4B3FC816327047B248E943844CB798840560"
         },
         "/modloader/toy/rb_hlw_head.dff": {
             "time": 1738780313.3579116,
             "size": 165888,
-            "hash": ""
+            "hash": "08F1DB117F2EBB835A7CADBCD0F2767CECAA95A1C1CD8E01C400F3FC2005C05F174F1312D7F283779297183D149AFECFBFA74B1EDF724E7B70CB4DF26173DD73"
         },
         "/modloader/toy/rb_hlw_left.dff": {
             "time": 1738780312.7377274,
             "size": 180224,
-            "hash": ""
+            "hash": "C25974B1D4FCFF5FAFA89C7314985F73F9AD7119F5A99BB997D27B02E9D6D4B880FEF363EE90348EA3C17403CD1C606DC884997D8CD5C918C089AD3D9488D12B"
         },
         "/modloader/toy/rb_hlw_mouth.dff": {
             "time": 1738780312.3440154,
             "size": 24576,
-            "hash": ""
+            "hash": "8B042B4DC16266AA196ACF0E794B5100AE30607B5DD72CDEDADA8642072C975570CEF5CA1AD1B716DB91C32581EEA2BD4D837ACD12D8B5F93C074CD9B242504D"
         },
         "/modloader/toy/rb_hlw_right.dff": {
             "time": 1738780312.7451942,
             "size": 188416,
-            "hash": ""
+            "hash": "FDC2E1F80C7171EA6E7AFCA034AC18689D5C51241D44F9A09309E09E3FE642F8E7812EB8326EB6DDF62BF691BA3B21D1B506340FE5BB040DDF386AC665BE6689"
         },
         "/modloader/toy/RIDGEBACK.dff": {
             "time": 1738780313.0580635,
             "size": 735232,
-            "hash": ""
+            "hash": "50C1F6B785C0559B6957A116EFC9E85B071B0B2B698DD25946AD12B18A0F45D5E249B77DFC73E7ADD8B6A2D70A4EFCDB16D2D3F081B74E7D90050B859A7E2A51"
         },
         "/modloader/toy/RIDGEBACK.txd": {
             "time": 1738780312.491653,
@@ -6199,7 +6200,7 @@
         "/modloader/toy/safe.dff": {
             "time": 1738780312.6853056,
             "size": 350208,
-            "hash": ""
+            "hash": "12B39EE36D3F6B57D974A164FB57790FA8AFAD14421D007F1FD6103F4007F62DA877285598D41A701C57B430D6DBF8E5CD1B06EF8C18C0588BAD44B3B97DDE6E"
         },
         "/modloader/toy/safe.txd": {
             "time": 1738780312.2815015,
@@ -6209,7 +6210,7 @@
         "/modloader/toy/Sharky.dff": {
             "time": 1738780313.0472407,
             "size": 3010560,
-            "hash": ""
+            "hash": "A6EDF563731928AB304228A26657C4B88F72314AF4B820EE7B6A1C1DD67DC3822055E9E554FF400B5A1849F485C2772400EFF448135BEF6764361C8B6F4F44C4"
         },
         "/modloader/toy/Sharky.txd": {
             "time": 1738780312.3131487,
@@ -6219,7 +6220,7 @@
         "/modloader/toy/shinchan.dff": {
             "time": 1738780312.7963989,
             "size": 702464,
-            "hash": ""
+            "hash": "FCD8B332D03E3DC6D458FE18283847677C10AE838F458B494094AAF445C52A9467B20A3BFB6F36033AC04D75972AC6F02C65A1105F721C2F3DBA8E57E1E7027F"
         },
         "/modloader/toy/shinchan.txd": {
             "time": 1738780313.262439,
@@ -6229,7 +6230,7 @@
         "/modloader/toy/snowcute_anim.dff": {
             "time": 1738780312.5876806,
             "size": 958464,
-            "hash": ""
+            "hash": "01177BAC3F8E272AE372FE9695B167DF4F3E6BECDA50CFAB06BEC88409159F0B08207A747CD909B676B2EF862E3009CC84154579B4DF167C91DD50889D776E45"
         },
         "/modloader/toy/snowcute_anim.txd": {
             "time": 1738780313.1859274,
@@ -6239,7 +6240,7 @@
         "/modloader/toy/songkran_bucket_01.dff": {
             "time": 1738780312.4307451,
             "size": 12288,
-            "hash": ""
+            "hash": "913CB6FC082635668BDDCE7DD191F0DCAE8E4851BF5038B8CE934A8BA6DCAC645F2A53143A974F4A2C587E67A1304E2F408B500F63006878FF8AE9104631BA0A"
         },
         "/modloader/toy/songkran_bucket_01.txd": {
             "time": 1738780312.794289,
@@ -6249,7 +6250,7 @@
         "/modloader/toy/songkran_bucket_02.dff": {
             "time": 1738780312.7012684,
             "size": 12288,
-            "hash": ""
+            "hash": "0D66299FF60A390361AFB90596AC05B756C016C931783F1A71557BAD96438492DC997CBE3556461BAC8EBE1CDF5DB5583A717B3A21C5FE822FB46A7986CC937D"
         },
         "/modloader/toy/songkran_bucket_02.txd": {
             "time": 1738780312.3449943,
@@ -6259,7 +6260,7 @@
         "/modloader/toy/songkran_buddaset_1.dff": {
             "time": 1738780312.756917,
             "size": 315392,
-            "hash": ""
+            "hash": "8F62979702E11EA7082D1C37ED1485996BE3754254EFA2B1522D03B560FF35BE16DECA30D357984058F9154683782575E1E4A23C741BC73033FA4479494CD01A"
         },
         "/modloader/toy/songkran_buddaset_1.txd": {
             "time": 1738780312.828446,
@@ -6269,7 +6270,7 @@
         "/modloader/toy/songkran_decal_01.dff": {
             "time": 1738780313.0615764,
             "size": 59392,
-            "hash": ""
+            "hash": "A9B4651FC7EDA472AD24E84A60FFA0575A195EFCD43BE55EF6E3F9833E9F1EAE11EBABB441222FB467E86039F3FDCB08091830C8F5AAB14A9AA018CC97504560"
         },
         "/modloader/toy/songkran_decal_01.txd": {
             "time": 1738780312.5384605,
@@ -6279,7 +6280,7 @@
         "/modloader/toy/songkran_decal_02.dff": {
             "time": 1738780312.845416,
             "size": 59392,
-            "hash": ""
+            "hash": "3CBE289C84D5CD9FAE0C13C90CC51256F729DCC8CE0F6AC68F98D02295B1425361E30F1248BE935229B23527EC84A712424EFDF74A824591B6424AE19D3235A5"
         },
         "/modloader/toy/songkran_decal_02.txd": {
             "time": 1738780313.07575,
@@ -6289,7 +6290,7 @@
         "/modloader/toy/songkran_decal_03.dff": {
             "time": 1738780312.6615932,
             "size": 59392,
-            "hash": ""
+            "hash": "16AF4A507B78F342A7DA1B4DD1FAD83D4970D7A774C55A58C18273D00DEA0B499F67D6809B3BB3C53ECCCB597F63B96F78C591D88E996AA11700F60C0D498C04"
         },
         "/modloader/toy/songkran_decal_03.txd": {
             "time": 1738780312.9714363,
@@ -6299,7 +6300,7 @@
         "/modloader/toy/songkran_fan_01.dff": {
             "time": 1738780312.9339502,
             "size": 65536,
-            "hash": ""
+            "hash": "B27A922FEB058E9548A9F444CBFFECBE536F2B6AE73A2FBCF4B971A86C9C166B5C6596672AA1ACABD574943836CA18F7BF55DBFADA19B5BFC49E0FAD99DA2AF0"
         },
         "/modloader/toy/songkran_fan_01.txd": {
             "time": 1738780312.3272629,
@@ -6309,7 +6310,7 @@
         "/modloader/toy/songkran_flower_01.dff": {
             "time": 1738780312.4580998,
             "size": 135168,
-            "hash": ""
+            "hash": "6C0B8DBED8888CC29B6CA0FA770F5072B76C58E23AD4A9AB8CFE0BF7396CF66DD95F8084734FA7D7A5E3579069E099949ED4BEAD514F9CAECA17E94FD4B4D648"
         },
         "/modloader/toy/songkran_flower_01.txd": {
             "time": 1738780312.3004005,
@@ -6319,7 +6320,7 @@
         "/modloader/toy/songkran_gate_01.dff": {
             "time": 1738780312.8692763,
             "size": 75776,
-            "hash": ""
+            "hash": "81F4B6AACE63540EE4BD86DE735D18D229CD424A694FD7AB091CB2A5A5EC4486179798D3E9387B15847C210327F652AF29765BB453FA1FDB7ECB18C6FD7118C2"
         },
         "/modloader/toy/songkran_gate_01.txd": {
             "time": 1738780312.6509562,
@@ -6329,7 +6330,7 @@
         "/modloader/toy/songkran_gate_02.dff": {
             "time": 1738780312.857793,
             "size": 69632,
-            "hash": ""
+            "hash": "CD6ECE457FBD3E05290EF946FD6BE56149793E243CF502C6F80AFECC83B7E6B36EA00C7ED8E7D10E625EE2D436E4EAB2378FDE35F433429A0018902715B57D5F"
         },
         "/modloader/toy/songkran_gate_02.txd": {
             "time": 1738780312.977302,
@@ -6339,7 +6340,7 @@
         "/modloader/toy/songkran_gun_01.dff": {
             "time": 1738780312.8702612,
             "size": 53248,
-            "hash": ""
+            "hash": "D9152FFC664C48762F18CC804990F37801AA5210D2F2D0C62D3A9CE487C32A4C658D79EB5DCB0F6B99FFE775BDF05FA14363A6420FEC2AAC082E16FB6C6AC4D5"
         },
         "/modloader/toy/songkran_gun_01.txd": {
             "time": 1738780313.0911188,
@@ -6349,7 +6350,7 @@
         "/modloader/toy/songkran_gun_02.dff": {
             "time": 1738780312.9123573,
             "size": 53248,
-            "hash": ""
+            "hash": "2206C01E82998C392D0CB516A365C751A9FDDD924A7F257251CF61FE75B73E77DC2AAFDC9447BB7869EEE4B9E465B8C23FEF069CCA83F2BE7F09258AC610234F"
         },
         "/modloader/toy/songkran_gun_02.txd": {
             "time": 1738780313.3867025,
@@ -6359,7 +6360,7 @@
         "/modloader/toy/songkran_jedi_01.dff": {
             "time": 1738780313.0169568,
             "size": 59392,
-            "hash": ""
+            "hash": "0F94CB39F96DFC9D5FB177AAF8441DC14FFCEEDB5D4920C697BF51EDBD1D8CCBFA307A1595BF30D0B02BDD5D3F34AB67982CF2D3B91E4DD9D48637399412C4A9"
         },
         "/modloader/toy/songkran_jedi_01.txd": {
             "time": 1738780312.7294931,
@@ -6369,7 +6370,7 @@
         "/modloader/toy/songkran_jedi_02.dff": {
             "time": 1738780312.5825782,
             "size": 59392,
-            "hash": ""
+            "hash": "1A298DC95F0E0A1428D9C1CBF03351D9B73FB21A154C6BC4BB4A542A081DABE3C761118E8C6D8815C5D0B46D065712CB226DE198252E2EF8A915DA7676D30609"
         },
         "/modloader/toy/songkran_jedi_02.txd": {
             "time": 1738780313.1659403,
@@ -6379,7 +6380,7 @@
         "/modloader/toy/songkran_jedi_03.dff": {
             "time": 1738780312.3958385,
             "size": 59392,
-            "hash": ""
+            "hash": "BA7D822CABE0C6C58E6A387BDD65976C02046D337BCA012E887EC78BE33A89C87C4E7663A0B2141E81BAD5BEA4134B4FC2D47864F30D003E2284619B76A2F993"
         },
         "/modloader/toy/songkran_jedi_03.txd": {
             "time": 1738780312.7740464,
@@ -6389,7 +6390,7 @@
         "/modloader/toy/songkran_pole_01.dff": {
             "time": 1738780312.7365553,
             "size": 22528,
-            "hash": ""
+            "hash": "4A7DABDF1297813666DD7C0F9E9BB2B4203A5BF91D5086788BC9585ED7270475607217CF6AC3FC94CC87E24B3027FD06CE9BCF6C6003CFD1BA9704FEBFAB95C4"
         },
         "/modloader/toy/songkran_pole_01.txd": {
             "time": 1738780312.635988,
@@ -6399,7 +6400,7 @@
         "/modloader/toy/songkran_stage_01.dff": {
             "time": 1738780312.4328198,
             "size": 143360,
-            "hash": ""
+            "hash": "CD81EFFD035B3F01985AD54F8CABCCCB4FA0456B192932A8ACF995EE4217B89EC02CC21399A3DD33DFA7B176B4EF478152B4F13C7E8BE4DB97C8A9A780E2F056"
         },
         "/modloader/toy/songkran_stage_01.txd": {
             "time": 1738780313.2506313,
@@ -6409,7 +6410,7 @@
         "/modloader/toy/songkran_tank_01.dff": {
             "time": 1738780312.5131414,
             "size": 12288,
-            "hash": ""
+            "hash": "0D3822CBBB981AB7B94EE8AAC8F4B14589293D2ACF7A8A9CCD430CA988EBF1B41EDE8A00B4A5D8E37B4623A4715C034C259D76A044CDEABF0BDF9E8BBEF44BB7"
         },
         "/modloader/toy/songkran_tank_01.txd": {
             "time": 1738780313.184914,
@@ -6419,7 +6420,7 @@
         "/modloader/toy/songkran_text_01.dff": {
             "time": 1738780312.7508779,
             "size": 292864,
-            "hash": ""
+            "hash": "C266F2F96F5ECC5EF168453628E245A7D46A0ADA8A5719E1723C4A21698979668C634E65696F7F7EB19B5F80D88C381FDAF44A7CB1A8D578A0C5245524CBD2DC"
         },
         "/modloader/toy/songkran_text_01.txd": {
             "time": 1738780312.8444302,
@@ -6429,7 +6430,7 @@
         "/modloader/toy/songkran_umbrella_1.dff": {
             "time": 1738780312.681167,
             "size": 16384,
-            "hash": ""
+            "hash": "7C1386CA502B99E29823EC6DA88C627C50B1F6FF73A68F81515B75DB71084AD0A23FB3D641E2798AEF58FF6513F19A225B40797D52F8F46550337B8044AB69A3"
         },
         "/modloader/toy/songkran_umbrella_1.txd": {
             "time": 1738780313.14039,
@@ -6439,7 +6440,7 @@
         "/modloader/toy/songkran_umbrella_2.dff": {
             "time": 1738780312.3977878,
             "size": 16384,
-            "hash": ""
+            "hash": "E05D531D45393961CE8A7D2D66F875C6ADD1ADEA8A6881CCDB746A3E2C1EE08F4315330D9C7E55CD9388A1F2A6FB9B16355352A13E5890E15F1610088C342E3C"
         },
         "/modloader/toy/songkran_umbrella_2.txd": {
             "time": 1738780313.0883732,
@@ -6449,7 +6450,7 @@
         "/modloader/toy/songkran_umbrella_3.dff": {
             "time": 1738780313.1006312,
             "size": 16384,
-            "hash": ""
+            "hash": "CD8FADBF8D9FBB98A9BFFF16F9F425649FACA7471F2F341F15EE71DF4B3B58A45BE8FDF84E2E3A328410FD376A1B9027C6218527A76F6C8956E44691AC91D8E9"
         },
         "/modloader/toy/songkran_umbrella_3.txd": {
             "time": 1738780312.6478045,
@@ -6459,7 +6460,7 @@
         "/modloader/toy/songkran_umbrella_4.dff": {
             "time": 1738780313.1158004,
             "size": 16384,
-            "hash": ""
+            "hash": "3BC966E986675395CAE6E6450F4C63D654BFB7164E705C07972ED3FA512FF9368252E31F87B7F8ABA1524B1EB291878C89259EF3226D25D5CDE807040A5A8268"
         },
         "/modloader/toy/songkran_umbrella_4.txd": {
             "time": 1738780313.1738582,
@@ -6469,7 +6470,7 @@
         "/modloader/toy/songkran_umbrella_5.dff": {
             "time": 1738780312.3938828,
             "size": 16384,
-            "hash": ""
+            "hash": "1C38950A20E1D2145B4B9E5041D877C4B0EAEAACEA039080F0A09966B3A696DAE01E9F1DCA237E71F9FF102063C8C2EE1857983FD9A45C6BFA27FFC2A86801A2"
         },
         "/modloader/toy/songkran_umbrella_5.txd": {
             "time": 1738780312.67942,
@@ -6479,7 +6480,7 @@
         "/modloader/toy/tex_material.dff": {
             "time": 1738780313.2838266,
             "size": 92160,
-            "hash": ""
+            "hash": "5D115CF2D927A15E4406C926504FBFDA0593AE559F57C8956F69EB65278B4136845E5433449FCF2311B027D189A3A4ECC0E1406BDC78E4BFED4AE8FD95846316"
         },
         "/modloader/toy/tex_material.txd": {
             "time": 1738780312.5355287,
@@ -6489,7 +6490,7 @@
         "/modloader/toy/TopSuit.dff": {
             "time": 1738780312.9104035,
             "size": 1169408,
-            "hash": ""
+            "hash": "81D669092B9578608F693A4DFA72C7EDB6D967679DC216E98BDBBB3A82366C01222BF2B62D0CDF11510167F1D0390E3D97AB08065382048A16BAA9FCF20F8F84"
         },
         "/modloader/toy/TopSuit.txd": {
             "time": 1738780312.6422975,
@@ -6499,7 +6500,7 @@
         "/modloader/toy/treestrum_ap29.dff": {
             "time": 1738780312.407406,
             "size": 1255424,
-            "hash": ""
+            "hash": "BE4EC7BE498A6B89A99968E475EE166641DC7F8ADCB9955326C9056187F038C116849A3B4E13C832F06BF5FD28DD3E7F685661F6946F13862D6F3439F8464CFA"
         },
         "/modloader/toy/treestrum_ap29.txd": {
             "time": 1738780312.881307,
@@ -6509,7 +6510,7 @@
         "/modloader/toy/unicorn_bag.dff": {
             "time": 1738780313.0570173,
             "size": 276480,
-            "hash": ""
+            "hash": "26ACB36E7085AD702E64F48F029C2130448E6078EA4A582D2ECB5B167CE6F5DFCBDBEE8068E4EA878CAF3C7F72578C69E09F94E974F288C2DF670C4F7AB1E1F2"
         },
         "/modloader/toy/unicorn_bag.txd": {
             "time": 1738780312.9597504,
@@ -6519,27 +6520,27 @@
         "/modloader/toy/vkrathong1.dff": {
             "time": 1738780313.2769506,
             "size": 782336,
-            "hash": ""
+            "hash": "F635FAAE47BA9EE5E954C2056AE7E8555B5BCA3FE5479399228A6B36F77C92B78691C6E29122EFC7169756BF2CCF6A0C922F90595D48C27C6488256A612A436D"
         },
         "/modloader/toy/vkrathong2.dff": {
             "time": 1738780312.286896,
             "size": 782336,
-            "hash": ""
+            "hash": "719D5B0C75B86145C547A44D3B86DED80FDE1C1583F2217D1328026CA678FB346EEDED103026C9D4886B23C9AB27A4740E5ADCA5EC58C7397409E2D40EE6FE47"
         },
         "/modloader/toy/vkrathong3.dff": {
             "time": 1738780313.3632615,
             "size": 782336,
-            "hash": ""
+            "hash": "CA0BA53A6E698B5CDDB752CE04F9BEACED964A92F6DFA4C1D79CDC41B888BD36CDED472C8CF1A26724E4B83C497012DC8053192454F4451ACA5D5AF263C8E410"
         },
         "/modloader/toy/vkrathong4.dff": {
             "time": 1738780312.8778355,
             "size": 677888,
-            "hash": ""
+            "hash": "B2B5FD933B7CD1E8A61DDCEF923FE6278748629AD7F57CDD10B1ACC8044DC33A186A3DC1B77292565E825ADC3AB15B4FB08DD87B71B2601B172863D42DB1E62E"
         },
         "/modloader/toy/vkrathong5.dff": {
             "time": 1738780312.8566976,
             "size": 677888,
-            "hash": ""
+            "hash": "EF49B5A2A2237F0C34E156E9AAA9B7E0DF76518BECD657DBE7733AA3D2D8282C90497418881D4D7E69DF568C2EC07921D83298265D322F34F7098229B8E0964F"
         },
         "/modloader/toy/vkrathong_tex.txd": {
             "time": 1738780312.7168381,
@@ -6549,7 +6550,7 @@
         "/modloader/toy/wallmart.dff": {
             "time": 1738780312.8235524,
             "size": 487424,
-            "hash": ""
+            "hash": "7DFB488E782066EC9A4D1CB5D69DD1831C28D06CDD7C37AD5BA1BF2D330FACAC3FB026EFE2D5B5E8EA5979F864EC7C8E838FAF329FE4016E30F35C5CBC2B2DF1"
         },
         "/modloader/toy/wallmart.txd": {
             "time": 1738780312.4271913,
@@ -6559,7 +6560,7 @@
         "/modloader/toy/Wingedfury.dff": {
             "time": 1738780312.4230235,
             "size": 344064,
-            "hash": ""
+            "hash": "A0D361ED678B0F4EE5528C23905065DF99B399E920C26512B72F65A67EE0DDA473777E6380A2ADE29D99C814CF1C8495735786732556497CE998AED0334166CA"
         },
         "/modloader/toy/Wingedfury.txd": {
             "time": 1738780312.4639115,
@@ -6569,7 +6570,7 @@
         "/modloader/toy/wing_china.dff": {
             "time": 1738780312.48868,
             "size": 681984,
-            "hash": ""
+            "hash": "9F9C902F21A7953ACD469DC3C81073676FAE48E11DD81AD839EF1C3E1729CCF9791B05F2C1905166DC7B46EB3EF4DE46CF09917D09E5DC02948243A778F80638"
         },
         "/modloader/toy/wing_china.ifp": {
             "time": 1738737440.0,
@@ -6584,7 +6585,7 @@
         "/modloader/toy/wing_wolfice.dff": {
             "time": 1738780312.7765577,
             "size": 462848,
-            "hash": ""
+            "hash": "0B85D36166D6548089BA5A2DE4C7FC2BC37D2A1B2861FD0E3FEE5A50DAD21FA8862AD890D92BFB616626A6F0A41195A7FE1A4CD858BFF505BDD0DE8612435AC9"
         },
         "/modloader/toy/wing_wolfice.txd": {
             "time": 1738780312.8535645,
@@ -6594,7 +6595,7 @@
         "/modloader/toy/worldwide_crab_ap29.dff": {
             "time": 1738780313.122828,
             "size": 264192,
-            "hash": ""
+            "hash": "5E4F489B528CDDA2B719CF8484AA38B42FF1061CF58897730AE9EA26DC236DCB0FE8DE25BA0816F005D0D916CEE1A2C587905A7971F3FC90A2BC3CABA3D74E88"
         },
         "/modloader/toy/worldwide_crab_ap29.txd": {
             "time": 1738780313.2295425,
@@ -6604,7 +6605,7 @@
         "/modloader/toy/ws_cabbage_ps01.dff": {
             "time": 1738780312.6915846,
             "size": 829440,
-            "hash": ""
+            "hash": "0AB83C7EBB7F90EA96FC105BDA76F4A2DCE837F2156A337951B7E2AD1BE718D22FFB36FC17F3A1AB6F88BAEDF3022C23E4653892C00BCFFEB272CD17210BBC67"
         },
         "/modloader/toy/ws_cabbage_ps01.txd": {
             "time": 1738780313.3394914,
@@ -6614,7 +6615,7 @@
         "/modloader/toy/ws_carrot_ps02.dff": {
             "time": 1738780312.284944,
             "size": 661504,
-            "hash": ""
+            "hash": "07FF0A18F8840B9C51F54634B52C5C2DF0795EEFA640DB9D0C2C1B2C04D8B942FAD459DAC5ECFE915258650A345B8D05ABBDB627CCC92A7C4F7090BAD795EE82"
         },
         "/modloader/toy/ws_carrot_ps02.txd": {
             "time": 1738780312.3364632,
@@ -6624,7 +6625,7 @@
         "/modloader/toy/ws_daikons_ps03.dff": {
             "time": 1738780313.2718358,
             "size": 780288,
-            "hash": ""
+            "hash": "246852C26B11BF757AEB56DE6AA87B1AC24BCC725867D8E09491C80084A6C1ACE1CBA8F8527604088148D1913191CB4776626F9EBD22CD4F4CA0D67E0D8C9D46"
         },
         "/modloader/toy/ws_daikons_ps03.txd": {
             "time": 1738780312.9880815,
@@ -6634,7 +6635,7 @@
         "/modloader/toy/ws_lemon_ps03.dff": {
             "time": 1738780313.1679842,
             "size": 808960,
-            "hash": ""
+            "hash": "0A76E472AB7223DB944C01D1170C3B7507C05328A1BBDAD2AE387B09FEA4B8E67CB9B45C00EE09317AEA45728F75142701EA129429D3E1DF49A86A4B98AAF14E"
         },
         "/modloader/toy/ws_lemon_ps03.txd": {
             "time": 1738780312.2959545,
@@ -6644,7 +6645,7 @@
         "/modloader/toy/ws_melon_ps03.dff": {
             "time": 1738780312.6756585,
             "size": 933888,
-            "hash": ""
+            "hash": "D22F36A8AFA2BFCE39E4536A70E217D71913BF83DA363614A72586713E2AB7ADA04017AB592B449C38779D99B2B34546EE04961F64FB97D72EE544E124928013"
         },
         "/modloader/toy/ws_melon_ps03.txd": {
             "time": 1738780313.008198,
@@ -6654,7 +6655,7 @@
         "/modloader/toy/ws_mushroom_ps03.dff": {
             "time": 1738780312.852577,
             "size": 989184,
-            "hash": ""
+            "hash": "063C1FDC8BA98C72FBC69C67210AA33B894EED51160FA39D58B9B257613277A17530395A9C5E8FD6A7510A340F5601C1F802600AF93CF71FC71AA7F34F67A62C"
         },
         "/modloader/toy/ws_mushroom_ps03.txd": {
             "time": 1738780312.7871192,
@@ -6664,7 +6665,7 @@
         "/modloader/toy/w_me_hlw_pool.dff": {
             "time": 1738780313.0853257,
             "size": 3401728,
-            "hash": ""
+            "hash": "79A2377F9A73574C6B88D7A6285F08DA6A8D532333380DA126531C3ABDBCAEDC2C7EF5BB272595DE24D510A090B8C3653E1DB7885EDE47D0A81CA4AA60E5EA2C"
         },
         "/modloader/toy/w_me_hlw_pool.txd": {
             "time": 1738780313.296979,
@@ -6674,7 +6675,7 @@
         "/modloader/toy/xmastreehead.dff": {
             "time": 1738780313.3886821,
             "size": 165888,
-            "hash": ""
+            "hash": "226EDFDBB445AC3EB1521FA0D59CDBA5F77ADBC156577BC0A9A6955DE1F51DD03389BC356D909DFD6F1DD0C5C8BC5EB9358B4D0A6F247BC1BD387275D20535DE"
         },
         "/modloader/toy/xmastreehead.txd": {
             "time": 1738780313.2536085,
@@ -6684,7 +6685,7 @@
         "/modloader/toy/xmas_hatmask.dff": {
             "time": 1738780312.8135293,
             "size": 49152,
-            "hash": ""
+            "hash": "20BA23788A7380D737416FAA510FF984DB8900A7B02BA729E43B039A8B58C79F328C78031F770FC4FF071BCDEA384C5F99505969228F75866ADE21ECEACDDDD9"
         },
         "/modloader/toy/xmas_hatmask.txd": {
             "time": 1738780313.1060164,
@@ -6694,7 +6695,7 @@
         "/modloader/toy/xmas_snowman.dff": {
             "time": 1738780312.8439238,
             "size": 329728,
-            "hash": ""
+            "hash": "7DD28B790CFFB4E02CDE6DEC9711192F4615CE176C5DDC06AC766998D17FDEA51434BB509D53A05CC2CB965788A01D7E8D8FA810B42E364FC249CEA050F28085"
         },
         "/modloader/toy/xmas_snowman.txd": {
             "time": 1738780313.3317268,
@@ -6719,102 +6720,102 @@
         "/modloader/wheels/gta3.img/wheel_gn1.dff": {
             "time": 1244833073.484375,
             "size": 190464,
-            "hash": ""
+            "hash": "66F3354ACF0231EB373C92BE519358FB1F0B5AF9FA8B3F363D74FFE8D2D0906A556F8595F6B1029BB41AD6FD0E854C99473790D69F75CDCAFE06EF26202026C7"
         },
         "/modloader/wheels/gta3.img/wheel_gn2.dff": {
             "time": 1244751880.421875,
             "size": 180224,
-            "hash": ""
+            "hash": "DC303D3F5B001C86B2038AF135D06E6F702E4FF0F6D53E5AF039A0EDFC6F35FFD236636B8E5D0B4D44D23B3A2BA13661CBE8023334F803C34CCB49BCD31A2A87"
         },
         "/modloader/wheels/gta3.img/wheel_gn3.dff": {
             "time": 1244751888.9375,
             "size": 194560,
-            "hash": ""
+            "hash": "A8AA2B3D673A38CDA8B9278547AC758F47E216A80FFF528295BD9C332D682FD832C811947ED516250E4F26AD38A832AAE99064F28A6E6906EEFB9E9BEB884B1F"
         },
         "/modloader/wheels/gta3.img/wheel_gn4.dff": {
             "time": 1244749688.46875,
             "size": 192512,
-            "hash": ""
+            "hash": "4A05F5021582C884CE2A1DFEE36289F9EAD38912D8783C1A87AF18D90DF3211A6D3CBD97EEAE37CD91C34E5B48D305C3DB51B0D6AFE01CC843F96469068C46E6"
         },
         "/modloader/wheels/gta3.img/wheel_gn5.dff": {
             "time": 1244833334.921875,
             "size": 190464,
-            "hash": ""
+            "hash": "4F0B605996030F12C3C63020ED0B3373C664B46B2737A1F5FE88E3C7C996C8DAA03B3686678892CB043693D5130E548968B5BCF0E56F47B4EF121DAE5AF8AD0D"
         },
         "/modloader/wheels/gta3.img/wheel_lr1.dff": {
             "time": 1245395490.65625,
             "size": 182272,
-            "hash": ""
+            "hash": "9E44425B364814EF867C962D5B76CA007A8287CBC0E86F6DDCDE9A907A5564CDC3A4CEB407AFCA4C22DCD10E605A1074844203A7941CB41422148AE7146A2BB6"
         },
         "/modloader/wheels/gta3.img/wheel_lr2.dff": {
             "time": 1245395485.859375,
             "size": 198656,
-            "hash": ""
+            "hash": "2EF939AD78F5E1AA29779D12C83C3F27A5FCE8358C2A1372588E5EDCA8FB2EC1D9531321833318553B4847B6861A088F7CB233A72B564428D2ACE24F5028CFDE"
         },
         "/modloader/wheels/gta3.img/wheel_lr3.dff": {
             "time": 1244752477.359375,
             "size": 200704,
-            "hash": ""
+            "hash": "F5C283BF0C8F068B922EF42D032EF39F3548905DB08AF6D0E225DD818AFD6DFB1217ECF5F28AFDAFA97D7E9C30E814865644EA61851108C460838A0F19C71D79"
         },
         "/modloader/wheels/gta3.img/wheel_lr4.dff": {
             "time": 1245395496.40625,
             "size": 200704,
-            "hash": ""
+            "hash": "3733D22E36ED4A60F6F72A5D58FE6A8645E4DD46982D32C29C3C68A232259621CB337B62DD9AA83259A164A7CB7C27755441D1DFA7D02E5E26BE5FFE73F68462"
         },
         "/modloader/wheels/gta3.img/wheel_lr5.dff": {
             "time": 1245395502.40625,
             "size": 180224,
-            "hash": ""
+            "hash": "332F1806D34BFBB921AF53086A72434C1F50A2586FD2622329B1453B724EBF66EE5032828B98BC8D96D8519B93A3F94E72320763F18914C997BD62D7FFA9959B"
         },
         "/modloader/wheels/gta3.img/wheel_or1.dff": {
             "time": 1245001515.0123496,
             "size": 190464,
-            "hash": ""
+            "hash": "AE4BB208135D2775FCF455E901543131AB3B005DF5376CB44DF48644305D6B36AE1128D5C0A4A7861281C23F3C8BBD2D3DFE5377256E75FE2F0970B49A58B5DF"
         },
         "/modloader/wheels/gta3.img/wheel_sr1.dff": {
             "time": 1244752674.65625,
             "size": 180224,
-            "hash": ""
+            "hash": "B4DDE5DD3397ED94CD8873A3F47366FC6BAEDC103CAC587B3525B16CA2A0652FB5EA69483136A851BCA31A74266F3936F56FF5E74D837A042743A5BC9161C298"
         },
         "/modloader/wheels/gta3.img/wheel_sr2.dff": {
             "time": 1244752683.359375,
             "size": 198656,
-            "hash": ""
+            "hash": "1BE67D13BA5D3434EE830CB3D1AFB5BCDC298D6751CEC9FE587FFA0D907C532374103C579AB4A8DB05F11B81B4322F4AA08425F781CAB6A69AE1929C955501AC"
         },
         "/modloader/wheels/gta3.img/wheel_sr3.dff": {
             "time": 1244752691.109375,
             "size": 198656,
-            "hash": ""
+            "hash": "13C6F6CD4069EF20FE7C03614C0AB2A542FDE343A3AC0DCB6DBE9604E6F5C9FE38FDA1FBBD2D6DA9F01E158317D62C17B1B4CD3F3943AF290F0B4AFEB9F820F1"
         },
         "/modloader/wheels/gta3.img/wheel_sr4.dff": {
             "time": 1244752652.109375,
             "size": 184320,
-            "hash": ""
+            "hash": "580AFDB1CFC81D025B69F40A5499677A61B865E56C0C9385EEC84A36C8BB69B797E380A7C1ADF45F6AD8435F39E93B352D1A91CBCAC79CFA374EC024A7E11110"
         },
         "/modloader/wheels/gta3.img/wheel_sr5.dff": {
             "time": 1244752698.234375,
             "size": 167936,
-            "hash": ""
+            "hash": "ED2E192EAA8994920EB3F6A9B9BA213ABC3523586E548F0B810C2805EDD53EAB15214FAF48F66D6542F865D340AA72EA93EFB1A7F1E8D0FD584A8303A3FBE71D"
         },
         "/modloader/wheels/gta3.img/wheel_sr6.dff": {
             "time": 1244833098.84375,
             "size": 196608,
-            "hash": ""
+            "hash": "CB86B8871548006AE8CFD49EEC4DFD81AFE478E5FF4AD6F5B4D4F3EBEDDB7FECECE11F36AF6C55A50B58D4E97DD1B21B21413E8CC19DD31892099120C8D7F54B"
         },
         "/modloader/xe/alpha.dff": {
             "time": 1603596458.0,
             "size": 2781184,
-            "hash": ""
+            "hash": "8D807AF568C5C76761600087D15B796DB8C8297521BA0FDD2EC0619EDB42812739770B1B827E16054D39DBCD231D217A3DC92FD192AAD5BC8031506025DC31EE"
         },
         "/modloader/xe/ambulan.dff": {
             "time": 1464458330.0,
             "size": 2054144,
-            "hash": ""
+            "hash": "CF8BA4284EBC188CAA4B8C97C4D920D5AE6657C76074E0424CE8AA49B8D0CB0C7FAA91FFEE6CC12428599DC4C65D5391E75350A72BF4F82FC160B1F9857E8543"
         },
         "/modloader/xe/banshee.dff": {
             "time": 1739536811.8696532,
             "size": 10416128,
-            "hash": ""
+            "hash": "6E0CD80B330C959FCA94BDE0E87DE7B6865B1F5C9A59D8BE687387E8CDE162AFA6B312A4861DC9795101793B472BE0F24FB3696547C7C57B3B99BCB8EBB38271"
         },
         "/modloader/xe/banshee.txd": {
             "time": 1739536814.288868,
@@ -6824,7 +6825,7 @@
         "/modloader/xe/bravura.dff": {
             "time": 1738685823.6638877,
             "size": 552960,
-            "hash": ""
+            "hash": "5CC4BDB2E36EF569F21D51E6F03F5F184464837E79FF9E5A14FB7930E740B663D0CB089D0B57111AF3714FEAB9145EAAEBCB3955FBB0C0F8CA17343E4A31ED8F"
         },
         "/modloader/xe/bravura.txd": {
             "time": 1738685822.119733,
@@ -6834,7 +6835,7 @@
         "/modloader/xe/buffalo.dff": {
             "time": 1738685872.3338208,
             "size": 594195,
-            "hash": ""
+            "hash": "1AC3D5271D4CBFF531F957AEC47B3401740F0CA653DC7FF044114AE28807A5714ED918DEDE04E458AD79733BD00628D4A7EAF796D12AD715DBF67773EC5080CE"
         },
         "/modloader/xe/buffalo.txd": {
             "time": 1738685871.3968282,
@@ -6844,7 +6845,7 @@
         "/modloader/xe/bullet.dff": {
             "time": 1566229366.0,
             "size": 3756032,
-            "hash": ""
+            "hash": "C6D496FCF7D7C73D609088789015A0A14903034BB7B0B5201F6AD5CD41BA451AAA711A5997A6529F3F036AB73A6DC04BE708B82709779BA8F680B1E887BF9B58"
         },
         "/modloader/xe/bullet.txd": {
             "time": 1566148730.0,
@@ -6854,7 +6855,7 @@
         "/modloader/xe/cheetah.dff": {
             "time": 1187510582.0,
             "size": 7242119,
-            "hash": ""
+            "hash": "BEAA2FD9F81716B7D7CCFDBD20956789384653F8148EF1A7A6346E14DFFCEC191D6DDC801823263758B4409EA43BD4322ABC285D32E1E3D10CA54E87A5C19DC1"
         },
         "/modloader/xe/cheetah.txd": {
             "time": 1187449514.0,
@@ -6864,7 +6865,7 @@
         "/modloader/xe/clover.dff": {
             "time": 1581098989.6769373,
             "size": 598244,
-            "hash": ""
+            "hash": "B20368A3C3F3B24A8F9BBAA61527BCC4BC68FFD14F6FA56D3DFB2729BCB4B29559937D4E95D7B03FD76709C57CB871FD6C4722B6A5517763C762E4781EBCBDAA"
         },
         "/modloader/xe/clover.txd": {
             "time": 1581098999.299028,
@@ -6874,22 +6875,22 @@
         "/modloader/xe/copbike.dff": {
             "time": 1737457524.451,
             "size": 746178,
-            "hash": ""
+            "hash": "B11F5B9632124C4C9115C5EB15DB1DFBC43A8F180823A83E0BD302E6929C6E97595E9260F20F67453058BF5D156938DD8058EE4841B74EEEB753669BC99D9B4A"
         },
         "/modloader/xe/copcarru.dff": {
             "time": 1611822255.873979,
             "size": 2756608,
-            "hash": ""
+            "hash": "D06AD533CEF55BA5189D0882625B5555615E248950B2688F7C278A596AD3A6431EA4EC75CC8AD72ABED820A3A47BBFB4EEDE6CE801BBE8BFE6C229601F0B0524"
         },
         "/modloader/xe/copcarsf.dff": {
             "time": 1628328028.0,
             "size": 2593818,
-            "hash": ""
+            "hash": "B6BAE6C69E172F698A5F6C6FE612F28AEB71BB1605F5ECA46A93296555D410B39659E0E8CD188E2819BD2E6B232260DC6E24F0F0D0DDD977BB264200455BA1C1"
         },
         "/modloader/xe/elegy.dff": {
             "time": 1653078860.0,
             "size": 2503258,
-            "hash": ""
+            "hash": "CCF97D3DE5EB63A60282FF78A5B6AD216D8510D6A71E5A7AC5BACE37A326A9CEBD7D402445D386E34DB2A19DA4618DEAE75A9873B56B34D195524BF069054B00"
         },
         "/modloader/xe/elegy.txd": {
             "time": 1447059402.0,
@@ -6899,7 +6900,7 @@
         "/modloader/xe/euros.dff": {
             "time": 1738685863.5447676,
             "size": 620550,
-            "hash": ""
+            "hash": "5C9287CBA5B13E9F9725AA4A94A1C170B43953FCE878F6AB0FC80D9B80B4874151CA2DD6C878856080DD714CA57B66A55B5D176148871BD88DF380C6DC955643"
         },
         "/modloader/xe/euros.txd": {
             "time": 1738685859.8733945,
@@ -6909,7 +6910,7 @@
         "/modloader/xe/fcr900.dff": {
             "time": 1738685945.264891,
             "size": 4413440,
-            "hash": ""
+            "hash": "C81E20FA369B15D33FAF72C4B267AF2822A8634779034CC3F7DC6F313A09718A914C49FF40A62B1E8531D2249C675C586C7A1DD36AC5722439FD1D88C34D4F4E"
         },
         "/modloader/xe/fcr900.txd": {
             "time": 1738685943.8430912,
@@ -6919,22 +6920,22 @@
         "/modloader/xe/feltzer.dff": {
             "time": 1432418996.0,
             "size": 2871296,
-            "hash": ""
+            "hash": "2D4E8BE36FB3E5B79C6F16FA3C78ED216B00C5C859E7401F9EDFE413D50F80CE525CB70F5D680A92F186DCEB777440C28BC405C7E6978CD7EF7893D7AE81CF4D"
         },
         "/modloader/xe/glendale.dff": {
             "time": 1626655877.7817733,
             "size": 5136384,
-            "hash": ""
+            "hash": "31FC98693480F8F6BF47FFA7A3F3804D3408FC9F3A0A8BEF6CAAD35C8ED532E3C154E8B11CCEED8211C1A21D3658097DB40ED86A5B23B657A5C48D0E35C290CA"
         },
         "/modloader/xe/hermes.dff": {
             "time": 1652407322.0,
             "size": 1396429,
-            "hash": ""
+            "hash": "19F53EFE308A082FFE9DCF0B71832B49E01758DB7139DEEEB83B75E3CD71772E5EE18B29F4D4AD7FEC157ABB5F86598311C187FDB0F958FA9A7C5237AABC8DFA"
         },
         "/modloader/xe/huntley.dff": {
             "time": 1611651241.0248199,
             "size": 617234,
-            "hash": ""
+            "hash": "60C193238DD5BFB57039B850DB15AEF1631A838835AA28218AC0EFDB3D9B82C26B6BB8E661590C04041D579B59BCB2A6659F6279AD79F8846705A16B073BF9DB"
         },
         "/modloader/xe/huntley.txd": {
             "time": 1611651238.40667,
@@ -6944,7 +6945,7 @@
         "/modloader/xe/infernus.dff": {
             "time": 1738685832.8867054,
             "size": 1499998,
-            "hash": ""
+            "hash": "7DF8A08A4B46E90FFBC4C01CBB78F2C696EA68565D7FE36E23EF763DE8CE26FF257318F78DD2C8746CF0BE30E1ED8954C0D6AC273EA8052F7F01AA64A5D31D49"
         },
         "/modloader/xe/infernus.txd": {
             "time": 1738685834.7006443,
@@ -6954,12 +6955,12 @@
         "/modloader/xe/intruder.dff": {
             "time": 1645814180.0697887,
             "size": 3508224,
-            "hash": ""
+            "hash": "3770C8B6826FAAC7E74D90B1478D94A5EDCFF5E5C3CB825AD35BCEC94CEB115028812FD5927E2E07BF25B7D4C5F3094A3DBF0072CEF6EB8DF776813237AB7F42"
         },
         "/modloader/xe/jester.dff": {
             "time": 1444879800.0,
             "size": 1679360,
-            "hash": ""
+            "hash": "81775A627FC614EDC3C1AECD09B5A4A6C0FC49B05FCB95B5A621C3F181746F086218A13708EEDB1D1F24B81CC5909ACCB00FED16C6F167ED0F3CA286D35BB9B5"
         },
         "/modloader/xe/jester.txd": {
             "time": 1437018612.0,
@@ -6969,7 +6970,7 @@
         "/modloader/xe/landstal.dff": {
             "time": 1738685827.5039816,
             "size": 891207,
-            "hash": ""
+            "hash": "8BDEEBE29A1085107F556392636129401042F6F58BD1B91036526D8A6006DC93345323038E8159A57AA40DDDF7480C3D20D1BF68E904C1A7F8635D47C7D9DC4B"
         },
         "/modloader/xe/landstal.txd": {
             "time": 1738685824.8586097,
@@ -6979,7 +6980,7 @@
         "/modloader/xe/manana.dff": {
             "time": 1738685814.8204725,
             "size": 573440,
-            "hash": ""
+            "hash": "5B7127C27698096A04F5046A2B1B4685C1F485BC7D18A541DC0274BDABF2E84F9753F9D52FD143B14316C905810A4AE2EFF2724FCD0E1F748302ED5646FB7D76"
         },
         "/modloader/xe/manana.txd": {
             "time": 1738685813.4531314,
@@ -6989,7 +6990,7 @@
         "/modloader/xe/nebula.dff": {
             "time": 1232803240.0,
             "size": 2338816,
-            "hash": ""
+            "hash": "EB8BC67471D27DF42ACA67E55BE54F46E272949E99526EA90BDD28286BAA80962E1CAADE120C9BDBC7839CBBBB3DF331A257316F7F3E7AA6A1C8C8E54044ECC0"
         },
         "/modloader/xe/nebula.txd": {
             "time": 1231771198.0,
@@ -6999,7 +7000,7 @@
         "/modloader/xe/nrg500.dff": {
             "time": 1741179953.4315252,
             "size": 9389959,
-            "hash": ""
+            "hash": "08714A352FDCF3B03EE2B965067437FA93FA0B9FFA795CE8AA081A2FB68A073D04B635790799A5D781F436CEAA134134B2A185DBF24EA3258DE3DF283B42CB14"
         },
         "/modloader/xe/nrg500.txd": {
             "time": 1716045958.0,
@@ -7009,12 +7010,12 @@
         "/modloader/xe/oceanic.dff": {
             "time": 1626248586.0,
             "size": 1447936,
-            "hash": ""
+            "hash": "062042ED4E67C2763E17201416D478D4417A03BCB36463E83C5081C102142DA6B8803B10A7ED395A32C3B9DDAAE92FB17B9E4BAC6E1D021150D1E9DEC278196F"
         },
         "/modloader/xe/pcj600.dff": {
             "time": 1668430172.0,
             "size": 34385920,
-            "hash": ""
+            "hash": "A0EDCDD71B114A3E3F0E0C9B0DC895A00B82E050CCDF268147F15B6252F6F2EDE6F06D238247D0529E9CFD8DBF91680721908B1F6D27B735D1DA0AF3A4D78D84"
         },
         "/modloader/xe/pcj600.txd": {
             "time": 1668430452.0,
@@ -7024,17 +7025,17 @@
         "/modloader/xe/phoenix.dff": {
             "time": 1636202351.0,
             "size": 1693724,
-            "hash": ""
+            "hash": "2F03FDFAB4F7D79BB20B43EE72433BD9D2C7DB40E48DAF8A1BD0C7135B125D8653B116C5C06918DE87C394696121AF95979615868BB0F9911BCFB128BF749949"
         },
         "/modloader/xe/sabre.dff": {
             "time": 1652312754.8202205,
             "size": 3159475,
-            "hash": ""
+            "hash": "B2011D828DC68EDD3E52B88DEA7365E3001A3918A3484532FE89D9912F4601D21E2B378F3E9E11382F41B5741DFF02796322FEEEB2B082317CC2E881DCBF8E2B"
         },
         "/modloader/xe/sentinel.dff": {
             "time": 1738685820.2708344,
             "size": 847872,
-            "hash": ""
+            "hash": "FDEB2CA2D42441425F968890D6F16E6D34BB7B89A3E37BC40F5EEDA7CF863A6B832BBADD1CE98ECDE2A2E1D0CEB402C8E60A52B1B151BA0F090BB2E2B27202EB"
         },
         "/modloader/xe/sentinel.txd": {
             "time": 1738685819.2359407,
@@ -7044,7 +7045,7 @@
         "/modloader/xe/supergt.dff": {
             "time": 1655587444.0,
             "size": 4419584,
-            "hash": ""
+            "hash": "AC51ADF3DA871C7EC7FF1EB91793BE355C61CA8DEE4D5718EE9BEEFBFBAA70FF3D427B80E04E096A917B8F2E2FDD88339F9F139BDDD78C567D15A127D7B1A4CF"
         },
         "/modloader/xe/supergt.txd": {
             "time": 1655587444.0,
@@ -7054,7 +7055,7 @@
         "/modloader/xe/taxi.dff": {
             "time": 1616771110.0,
             "size": 1282048,
-            "hash": ""
+            "hash": "9B4CEC46CF5D747EFD2D96376572CC2872C54F1F331883C1FBA6EE07255872C8277AFCA83D2938379C773EA2C8D995B7865488A9F35CFC58DE9303BB5BEAC1A2"
         },
         "/modloader/xe/taxi.txd": {
             "time": 1739536798.5455136,
@@ -7064,12 +7065,12 @@
         "/modloader/xe/turismo.dff": {
             "time": 1728199514.933,
             "size": 1944199,
-            "hash": ""
+            "hash": "7B26C1FA9B0921D2D3D217616A035B7B44FE5D5F05F7233BF49F649C96FCB4FA60F75E24C5E88AFC73639C63C88E0C77CE13A289FE9625EB5887D8F2731BDBF3"
         },
         "/modloader/xe/uranus.dff": {
             "time": 1738685855.1537468,
             "size": 768000,
-            "hash": ""
+            "hash": "CEC67ED5781016C194F4AEA6B9D2E9C38F2D8252D7AF0441662CE4A323AAD6953668E02FF23EBF96FB3623F114C6F36EC9C056B4954B01E5037EF788873DF104"
         },
         "/modloader/xe/uranus.txd": {
             "time": 1738685852.451728,
@@ -7079,7 +7080,7 @@
         "/modloader/xe/washing.dff": {
             "time": 1738685815.1846592,
             "size": 934532,
-            "hash": ""
+            "hash": "A9F83A54A4C52E6763F25D14CD0F3D0CC30C3B859BD6234C3BDE6CE3B3A2275B6EFF67C7D20883BC764F222C8A94C895FCA7951AA98D27C140580F4AAF542BC0"
         },
         "/modloader/xe/washing.txd": {
             "time": 1738685815.0734887,
