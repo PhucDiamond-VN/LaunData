@@ -1,5 +1,6 @@
 {
   "curentversion": "2",
+  "launcherapp": "https://github.com/PhucDiamond-VN/LaunData/raw/refs/heads/master/GSVN.zip",
   "LaunData": "https://github.com/PhucDiamond-VN/LaunData/raw/refs/heads/master/SetupData.json",
   "omp_cache": "https://github.com/PhucDiamond-VN/LaunData/raw/refs/heads/master/omp_cache.zip"
 }
