@@ -52,11 +52,6 @@
             "size": 188416,
             "hash": "9C345A125C8308F41FE3A0DC71F624F9B16A0119AA8B237FF2C16C63A15839F656F732C71B5198C4BA256320691A1302C90CBF01791745F99F00D50C8B4E3A61"
         },
-        "/omp-launcher.log": {
-            "time": 1743880246.0,
-            "size": 133,
-            "hash": ""
-        },
         "/omp-launcher.exe": {
             "time": 1740065260.0,
             "size": 9820952,
@@ -5260,11 +5255,6 @@
         "/cleo/.cleo_config.ini": {
             "time": 1740068522.0,
             "size": 210,
-            "hash": ""
-        },
-        "/cleo/.cleo.log": {
-            "time": 1743862568.0,
-            "size": 31885,
             "hash": ""
         },
         "/cleo/cleo_plugins/SA.MemoryOperations.cleo": {
