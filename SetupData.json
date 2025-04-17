@@ -313,8 +313,8 @@
             "hash": ""
         },
         "/CustomSAA2/GTA.DAT": {
-            "time": 1744899700.0,
-            "size": 3667,
+            "time": 1743081094.0,
+            "size": 3788,
             "hash": ""
         },
         "/CustomSAA2/PEDS.IDE": {
@@ -672,19 +672,14 @@
             "size": 89473,
             "hash": ""
         },
-        "/SAMP/toyanim.ide": {
-            "time": 1744870588.0,
-            "size": 1845,
-            "hash": ""
-        },
         "/SAMP/samaps.txd": {
             "time": 1743082900.0,
             "size": 656040,
             "hash": "81F1C09B649776C935559D420214E9543C1E7A9690A79DE43A06DF03AF6DD54151755E010EA9D06A33058AB5743B30A27816D35F6729657439C6251EE19F1122"
         },
         "/SAMP/CUSTOM.ide": {
-            "time": 1744298544.0,
-            "size": 6986,
+            "time": 1743082898.0,
+            "size": 11337,
             "hash": ""
         },
         "/SAMP/custom.img": {
