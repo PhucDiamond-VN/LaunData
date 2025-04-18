@@ -1,5 +1,5 @@
 {
-    "Version": 10,
+    "Version": 11,
     "ip": "rBj5n2os7VYKM+pXFfsABg==",
     "port": "s/UUefJWk5nf30YoWTtvMA==",
     "pass": "xHT+DmCV7zeViQZQX+8xYg==",
@@ -313,8 +313,8 @@
             "hash": ""
         },
         "/CustomSAA2/GTA.DAT": {
-            "time": 1743081094.0,
-            "size": 3788,
+            "time": 1744899700.0,
+            "size": 3667,
             "hash": ""
         },
         "/CustomSAA2/PEDS.IDE": {
@@ -672,14 +672,19 @@
             "size": 89473,
             "hash": ""
         },
+        "/SAMP/toyanim.ide": {
+            "time": 1744870588.0,
+            "size": 1845,
+            "hash": ""
+        },
         "/SAMP/samaps.txd": {
             "time": 1743082900.0,
             "size": 656040,
             "hash": "81F1C09B649776C935559D420214E9543C1E7A9690A79DE43A06DF03AF6DD54151755E010EA9D06A33058AB5743B30A27816D35F6729657439C6251EE19F1122"
         },
         "/SAMP/CUSTOM.ide": {
-            "time": 1743082898.0,
-            "size": 11337,
+            "time": 1744298544.0,
+            "size": 6986,
             "hash": ""
         },
         "/SAMP/custom.img": {
@@ -4021,6 +4026,216 @@
             "time": 1743082800.0,
             "size": 10416128,
             "hash": "6E0CD80B330C959FCA94BDE0E87DE7B6865B1F5C9A59D8BE687387E8CDE162AFA6B312A4861DC9795101793B472BE0F24FB3696547C7C57B3B99BCB8EBB38271"
+        },
+        "/modloader/toyanim/obj_efbatman.dff": {
+            "time": 1744899635.0,
+            "size": 24576,
+            "hash": "DB562277F6219FB95B2E27B2B35A453600B90CD47EEE6520B26EBAFBBCF502FACD221704CF0A3BAA4BA79EBC9280AA70E189701832725C9D9918706A4DD8CB8E"
+        },
+        "/modloader/toyanim/obj_cautim.dff": {
+            "time": 1744899635.0,
+            "size": 4096,
+            "hash": "2A56959FAF1A01C9789D09D49CE3DAD0734A80B9A1C6D15A975F8297937BF10776E50F13FE0DF8968C14EE5145C2C75B2CC905E34EAEE88FE90678C187D585D6"
+        },
+        "/modloader/toyanim/cauxoayso.dff": {
+            "time": 1744899635.0,
+            "size": 75776,
+            "hash": "C638E58AB726C70FC83561A690B63E0A8C715AF7248B72C3B5F9C910FE5C4E4863975F04F79AE5443D919888FA0CC6CDF3FA7A89ADE17DB9CF629E5A8A0B93D8"
+        },
+        "/modloader/toyanim/cauxoaypink.dff": {
+            "time": 1744899635.0,
+            "size": 18432,
+            "hash": "922772AFF2CCC69AA691DDB7BB0A4E6E27BCDC02A52279B4EEA82C64A26ABAC71101E40E975ACBF35B93ADF37F93FB414DC711CD7C3104CE947D4B3E99FA6292"
+        },
+        "/modloader/toyanim/obj_vongxoay3.dff": {
+            "time": 1744899636.0,
+            "size": 2048,
+            "hash": "270493796F8157C303F870BE35598108C4150C31655D29095FAD8406D526613EC8EA550B7B836181BF55799B1BA9C3660DAC5B74513B04C3BF26F16422F9644B"
+        },
+        "/modloader/toyanim/obj_kinhquocduy.dff": {
+            "time": 1744899636.0,
+            "size": 6144,
+            "hash": "E58ECF693DAD9BE7F27EF05E6BE487A69EE767BCDE6AC46740099D965D2862B72968D7A67F32781887BD93E653383C2DBB4A0A8C72D41897C9FE0B2BA4794501"
+        },
+        "/modloader/toyanim/custom_richardawson.dff": {
+            "time": 1744899636.0,
+            "size": 487424,
+            "hash": "EB2D37A79701FC1402C64DC248C210DC918CAB78491734E9D488AA0C3ABAF2182832CDE98F1EE7E3076709D90220EA1C3C6203FB3E90D2BA58AA3F9E76CC6E36"
+        },
+        "/modloader/toyanim/abysshqa.txd": {
+            "time": 1744899636.0,
+            "size": 7456768,
+            "hash": "6E9EDAD4C1E76BA0643A2624567A381B2EA5A06134039CBAAE6B6AB374D5406D4F825C9342E30DC26EB13357B0A32932ABC5665C0A2D690C985E2F08661101C0"
+        },
+        "/modloader/toyanim/obj_caublue.dff": {
+            "time": 1744899635.0,
+            "size": 4096,
+            "hash": "2C07F5E933E49B9B5C5FDD0C2875DB441D805E13D7D27BD34D883DD3AE2875388743F76CA8F9828C5071797EEAF0D7CBD81AE86903AD6687A1D3D017A63BBED7"
+        },
+        "/modloader/toyanim/cauxoayred.dff": {
+            "time": 1744899635.0,
+            "size": 18432,
+            "hash": "B822FEE1EBDD8F50482EADB73AD9CC539404357B4E8CF309F2D2728BD49365A576AEDD609E221761C169B2D25C43957B3DA336C0D53AAD8D05CA85854EBBFE28"
+        },
+        "/modloader/toyanim/abysshqa.dff": {
+            "time": 1744899636.0,
+            "size": 2086912,
+            "hash": "BAE5D924FC9BAF806C810EEA8776627B507D341A34ECAAEE966E160253780963CCBF3E25C929A4316E53926798B2AE7BA734490B54513632F8EC8E4F8AE93B85"
+        },
+        "/modloader/toyanim/obj_vongxoay5.dff": {
+            "time": 1744899636.0,
+            "size": 2048,
+            "hash": "B5A97E49A3133F0DDAB7996AB152FF9DD4BC22266450043F0B92A1CD65438AA48C205BC1797C86189CA2A586F7D1D972265C84EDAAE7ECFB8DEEA7FB689EB4A5"
+        },
+        "/modloader/toyanim/cauxoayyellow.dff": {
+            "time": 1744899635.0,
+            "size": 18432,
+            "hash": "53B224F0B930BE7AAD4312425F2D23E5FABDDFC6A50E41CA2DAF69C6CF2BB01E26A60928EC523DD3065F0866F370ACEC8335F16D018F0AD91021E91C6D690192"
+        },
+        "/modloader/toyanim/bigmikecuibap.col": {
+            "time": 1744899636.0,
+            "size": 747520,
+            "hash": ""
+        },
+        "/modloader/toyanim/obj_vongxoay2.dff": {
+            "time": 1744899636.0,
+            "size": 2048,
+            "hash": "F7A00E4C39969431E48C111BB259045DA272BB383211D7BC9724712139D64DD521A21305DFBDC5531011B3B0BA3EB0EAA09E293C8CAC30A9A3EE5BB9D61A5BC8"
+        },
+        "/modloader/toyanim/datconruoi.dff": {
+            "time": 1744899636.0,
+            "size": 1372160,
+            "hash": "CC4F5846D0DB9CD8DE810F404241840BF3B2C843DEFF365B148CFBFE07016A3B12E299FE55E49E2D254E1114634F192A876D2952882819D2FB367C7391E22B5C"
+        },
+        "/modloader/toyanim/obj_canh1.dff": {
+            "time": 1744899635.0,
+            "size": 40960,
+            "hash": "DA0AD4BD2D54E339B7B728CB13DEE5F5AA343726BF6D44C2E37DF74E734E2BEE6BBBA0F519A1D802E6BB30F897DE3AB027E6BF0DA983C828850B83653C1BD1DA"
+        },
+        "/modloader/toyanim/new_year2024.txd": {
+            "time": 1744899635.0,
+            "size": 14630912,
+            "hash": "A9910A2F383D2F1FE0BF2FC654AB15EC5B97ADF8BE18D736C9C44D0690F23ECF0C15BC190E3A7A2A0BD8C816CBE2478F5C46F1609169A5B05160EF7B7180B289"
+        },
+        "/modloader/toyanim/anim_bigm.ifp": {
+            "time": 1744899635.0,
+            "size": 28672,
+            "hash": ""
+        },
+        "/modloader/toyanim/obj_cuontron2.dff": {
+            "time": 1744899635.0,
+            "size": 24576,
+            "hash": "AEEBE80C9DCFA982C796864C7BCD1880F5BC706487A5C38116E143CD8FDEA69066A6C2FCEBF16382E84E2C95437A24A7DFC911AD6F0B15171951B7E844AB76CE"
+        },
+        "/modloader/toyanim/obj_vongxoay1.dff": {
+            "time": 1744899636.0,
+            "size": 2048,
+            "hash": "E83A5D47FC468CDED20A6432BE3E9733CD438D642F3134B511DC1558708AF725301BD614582C90667C1C1B0A0A86853D53A48254E32ECE65380533517DFA6A1A"
+        },
+        "/modloader/toyanim/obj_cauyellow.dff": {
+            "time": 1744899635.0,
+            "size": 4096,
+            "hash": "BC463393F5057201FAD68F18311B4500291E2E5A81D32783E9B703C376398ED53620280BBF78B097CD6C8B18FE9D3018F10BD303F142BE073DF7F942BE13266E"
+        },
+        "/modloader/toyanim/obj_vongxoay4.dff": {
+            "time": 1744899636.0,
+            "size": 2048,
+            "hash": "BAD8561B277F06C71B594C97FA50F716D3B9250A62FC0C5C3442891DFAAC3B37C492CCDFCE5BDEDEE4C04357160A341E0ECB59DDD16AC68A0F86D75DF59EE90C"
+        },
+        "/modloader/toyanim/obj_pikachu.dff": {
+            "time": 1744899636.0,
+            "size": 1538048,
+            "hash": "3F8C0108B1E2892F77E23A1078ECB7BB06FAEC67BE5AF2FA1F6506FEDC30D8E83384930010913F4D70ABD61408F46CFA6BC758A8A4FEE0C60A4BCB21E2979374"
+        },
+        "/modloader/toyanim/obj_kinhnapo.dff": {
+            "time": 1744899636.0,
+            "size": 6144,
+            "hash": "50EA6913B67304317A9A4D2B0359B7EAE26E1AF4170473995D0ACA47499798FFDC3DE3BD6469FEF6BA51ECC764F9791F903FF2E3A62127F3E93243F5B10C7391"
+        },
+        "/modloader/toyanim/obj_cuontron.dff": {
+            "time": 1744899635.0,
+            "size": 24576,
+            "hash": "350FFAF7440AE30E5DC05FDE70F2FC100D734F21FE6122997C2A49FDC8DAB591A2873D459ADF3AB057BEAFA872266EE604A06CB567E91C708229364755A925A1"
+        },
+        "/modloader/toyanim/obj_vongxoay7.dff": {
+            "time": 1744899636.0,
+            "size": 14336,
+            "hash": "C510C3259ACA183E34FBF5235352017F56D154B43D4606256CCF9C36E483440EEF068493C85D552E900D8746741BC31F2D8986FAA3682156EF68BB4E988DBA19"
+        },
+        "/modloader/toyanim/obj_kinhanhtrang.dff": {
+            "time": 1744899635.0,
+            "size": 6144,
+            "hash": "58501B737397291DF59D476938D541E9040348B4298EAF5C23DA962E8565A0860F26359D15ACD562E40A21E870F090C78BA567CE1B36AAA49BFF8099DA3CBB27"
+        },
+        "/modloader/toyanim/obj_efhoaanhdao.dff": {
+            "time": 1744899635.0,
+            "size": 24576,
+            "hash": "A032D575B0717E031D3FEA112EC69A4A6D9ECD7ED4F3E990A11C4F9477A8E3B0939CA13CF17AE5622AA5A8936CB126C2EDEEB1C173F04080CFE1E7258612A78C"
+        },
+        "/modloader/toyanim/vongxoay_minions.dff": {
+            "time": 1744899636.0,
+            "size": 1542144,
+            "hash": "A9F771BC9EED7C3468118AD2C4BB8228B7BAB260E735AB7012272C44A950C64546DCFDFA069B60AC764C80EE3838803312C2893E98045CFEC192A816D05D7A2C"
+        },
+        "/modloader/toyanim/hqconruoi.txd": {
+            "time": 1744899636.0,
+            "size": 3028992,
+            "hash": "B00B91FFC0B5FC494054465BA2CA2C6E2081A9F480AABF1BACC6E335CD50026D812E27923D0093E6CEEEB8FB91C6CCD59680BF9CC1047294853030A98693C775"
+        },
+        "/modloader/toyanim/obj_logorgame.dff": {
+            "time": 1744899636.0,
+            "size": 4096,
+            "hash": "FACE759D985FC47E477A4A6D47055B808786E0F780DCB650AA3274D4E1F83F9EFEA454E5C8F05B80DC093946398D354ACA7A96DD4884040997FEAF129464EDB6"
+        },
+        "/modloader/toyanim/obj_kinhjack.dff": {
+            "time": 1744899635.0,
+            "size": 6144,
+            "hash": "7304B60C6BE433CB1F697F30EF0A51B5B84141FAB0B90F4A7FD94E51CD5885E5DF98C3CE12450DB8D06B345319BA895D89D8EDCE375D90C2416008B681813CB7"
+        },
+        "/modloader/toyanim/obj_vongxoay6.dff": {
+            "time": 1744899636.0,
+            "size": 2048,
+            "hash": "4484C452152FED7B770A2A7D4DDE7CD7FE78C90A637BFB7FD4D63B82A60FBDD2737BB0D8032CA796B86CD4789BDD2753F2D7E0EB233D51BE9C2338BF5F08C83A"
+        },
+        "/modloader/toyanim/obj_kinhgarung.dff": {
+            "time": 1744899635.0,
+            "size": 6144,
+            "hash": "22A8244166D6FCE46E2597E5AC9898B72F0C999CE0EE7D18B735FCC1ECE7009979E1C3FF137248DEDF8CD22E15747195FBCD4D2C5F57D03CA7D786D397EA2D15"
+        },
+        "/modloader/toyanim/obj_kinhlewispaul.dff": {
+            "time": 1744899635.0,
+            "size": 6144,
+            "hash": "5BC517BAE7886BFEA96FD79CF8B3F1CAB7ED1AA179846172CE87C7BB591DCF685C12CECCA2F0D84341959A89A557D3677A904E2AC0BFF3C2E36AC9D57A1D789D"
+        },
+        "/modloader/toyanim/obj_canhkiem3.dff": {
+            "time": 1744899635.0,
+            "size": 174080,
+            "hash": "C1E23B81566C4540D44E794071766DA3895D480B6287BEA12F099B100D4C05E424E929E7DDD48D95B177E1B1321C39BA939CBEB9DBC91F8E70A8F1F3FBB33771"
+        },
+        "/modloader/toyanim/obj_canhlongvu1.dff": {
+            "time": 1744899635.0,
+            "size": 73728,
+            "hash": "EEEF8962D036319324802078CF87E39081391F56A7F3A917D22B066B2D9258FBED296999900AFC72B77E3A48CD4BEBBE1C9EBB039C857C192BDBB838FA71F462"
+        },
+        "/modloader/toyanim/hqconruoi.dff": {
+            "time": 1744899636.0,
+            "size": 1593344,
+            "hash": "2D3A8B219E67A440B8B7158B32F404817ACF31859090313157131BE88C21D86059DB3F78188E61154FE23A808A6C5877F1FCFD2EEB3D25217E9604A57CA71384"
+        },
+        "/modloader/toyanim/ef_traitim.dff": {
+            "time": 1744899635.0,
+            "size": 6144,
+            "hash": "7951222B7E83DE33EF756F789D06448A4102661421EA04D507547606850A9E12D13C41EAB9D11856292A3E30CA21CF310CAAE0CB3B1111718B0CEF10B63BD9B6"
+        },
+        "/modloader/toyanim/obj_logorgame1.dff": {
+            "time": 1744899636.0,
+            "size": 4096,
+            "hash": "00E2F2217C3AB71FA64BAF9E0453DFA787F14C67CC9F5F73D717CF9E086431E8746CEC648DCD4B3EA6329C2139812E4E20FF7BD77B4C30ADAB01E4335D4BB9FD"
+        },
+        "/modloader/toyanim/obj_caured.dff": {
+            "time": 1744899635.0,
+            "size": 4096,
+            "hash": "6E4E4DEB12C265965EA417436A0ECB48C778C14BC0F0F8B79F00FE7D57FFED805B3BE8201286FB22B8D6A4A1392190184E3B4B521762A4D972219F2ECA4AAECC"
         },
         "/modloader/Fix/Fix \u0431\u0430\u0433\u0430 \u0441 FPS \u043f\u0440\u0438 \u0442\u043e\u0440\u043c\u043e\u0436\u0435\u043d\u0438\u0438/Car Speed FPS Fix (Junior_Djjr).cs": {
             "time": 1743082144.0,
