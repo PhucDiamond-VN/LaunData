@@ -1,5 +1,5 @@
 {
-    "Version": 17,
+    "Version": 18,
     "ip": "rBj5n2os7VYKM+pXFfsABg==",
     "port": "s/UUefJWk5nf30YoWTtvMA==",
     "pass": "xHT+DmCV7zeViQZQX+8xYg==",
@@ -146,6 +146,11 @@
             "time": 1744992235.841777,
             "size": 36864,
             "hash": "9C03BC45C6BFC9F323802813A040992789B99CB961BF43B6E7536E3A379E3C22EA2FC86998C005C6FF1264F6081458A8DE9C827A5F5D6A9C065AD7484E796EDE"
+        },
+        "/omp-launcher.exe": {
+            "time": 1740040060.91095,
+            "size": 9820952,
+            "hash": "A59912D5F6BAA59148EF767F46B44EAA599763173A17F1A1AA8E39DE7AD849509D63BDA9A3818E95D4922C1024A80FA13802225FD8E8840958D0F53A78B7FC18"
         },
         "/OutFitFix.asi": {
             "time": 1744992229.9604037,
